@@ -5,7 +5,7 @@ menu:
     weight: 40
 ---
 
-## Students
+STUDENTS
 - Anna Blyumenkrants
 - Gayoung Do
 - Rose Henderschedt
@@ -22,6 +22,6 @@ menu:
 - Shiyao Wu
 
 
-## Instructors
+INSTRUCTORS
 - Sophie Auger
 - Eric Li

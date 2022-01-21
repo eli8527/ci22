@@ -1,0 +1,12 @@
+baseURL: http://ci22.eric.young.li/
+languageCode: en-us
+title: Core Interaction Spring 2022
+
+params:
+  # ga: 'UA-57660834-7'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      hardWraps: true

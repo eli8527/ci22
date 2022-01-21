@@ -1,0 +1,14 @@
+<nav>
+  {{- $currentPage := . -}}
+  <select class="ui" name="nav" onchange="updateNav(event)">
+    {{ range .Site.Menus.main.Reverse }}
+      <option {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}selected{{end}} value="{{ .URL }}">{{ .Name }}</option>
+    {{ end }}
+  </select>
+  <script>
+    updateNav = (e) => {
+      const url = e.target.value;
+      window.location.href = url;
+    }
+  </script>
+</nav>

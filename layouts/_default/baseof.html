@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta content="initial-scale=1,width=device-width,viewport-fit=cover" name="viewport" />
+    <meta name="color-scheme" content="dark light">
+    {{- block "head" .}}{{ end -}}
+    {{- $favicon := resources.Get "/icons/favicon.png" -}}
+    <link href="{{$favicon.RelPermalink}}" rel="icon" sizes="all" />
+    
+    <title>
+      {{- block "title" . -}}
+        {{ .Site.Title }}
+      {{- end -}}
+    </title>
+  
+    {{- $mainCss := resources.Get "/styles/main.css" -}}
+    <link href="{{($mainCss | resources.Fingerprint "sha512").RelPermalink}}" rel="stylesheet" />
+    
+    {{- with .Site.Params.Ga }}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{.}}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '{{.}}');
+      </script>
+    {{end -}}
+    {{- $mainJs := resources.Get "/scripts/main.js" -}}
+    <script src="{{($mainJs | resources.Fingerprint "sha512").RelPermalink}}"></script>
+  </head>
+  <body>
+    <!-- Code that all your templates share, like a header -->
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+    {{ block "footer" . }}
+    <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+    {{ end }}
+  </body>
+</html>

@@ -1,0 +1,23 @@
+
+{{define "title"}}
+  {{.Title | markdownify}} — {{ .Site.Title }}
+{{end}}
+
+{{ define "main" }}
+  {{- partial "nav.html" . -}}
+  <main class="layout-wrapper">
+    <div 
+      class="
+        content 
+        text
+      "
+      style="
+        {{- with .Params.Columns}}
+          --column--count: {{.}};
+        {{end -}}
+      "
+      >
+      {{.Content}}
+    </div>
+  </main>
+{{end}}

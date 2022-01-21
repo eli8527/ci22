@@ -7,6 +7,15 @@ menu:
 
 - [Reading leaders signup sheet](https://docs.google.com/document/d/1rixPKi2pmKr-eSfHzbp6NFr8zVOIDYezl-GbPGsvyNk/edit)
 
+## UNIT 1
+
+Studio Readings
+* Olia Lialina, [Vernacular Web](http://art.teleportacia.org/observation/vernacular/), 2007
+
+Lab Readings
+* Paul Ford, [What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/), 2015
+
+
 FURTHER READING
 * Anny Li, [How to Encounter a Puddle](https://volume-1.org/Triple-Canopy-How-to-Encounter-a-Puddle), 2018
 * Ursula K. LeGuin, [Carrier Bag Theory of Fiction](https://drive.google.com/open?id=1Cb-uy8l782nKdwwB7L0QqXvmdDBmbIAf), 1986

@@ -1,0 +1,60 @@
+
+{{define "title"}}
+{{.Title | markdownify}} — {{ .Site.Title }}
+{{end}}
+
+{{ define "main" }}
+{{- partial "nav.html" . -}}
+<main class="layout-wrapper">
+  <div 
+    class="
+      content 
+    "
+    >
+    <div class="schedule">
+      <div class="schedule__week center">Week</div>
+      <div class="schedule__overview center">Overview</div>
+      <div class="schedule__days center">Dates</div>
+      {{- range sort .CurrentSection.Pages ".Params.Week" }}
+        {{- $page := . -}}
+        {{- with .Params}}
+          {{- with .Unit}}
+            <div class="schedule__unit">{{.}}</div>
+          {{end -}}
+          <a class="schedule__week__link" {{with .ActiveDate}}{{if gt time.Now (time .) }}href="{{$page.URL}}"{{end}}{{end}}>
+            <div class="schedule__week center">{{.Week}}</div>
+            <div class="schedule__overview">{{.Overview | markdownify}}</div>
+            <div class="schedule__days">
+              {{- $days := .Days -}}
+              {{- range $i, $v := $days}}
+                <nobr><span class="schedule__day" data-day="{{$v}}">{{time.Format "Mon 1/2" $v}}</span></nobr><br>
+              {{end -}}
+            </div>
+          </a>
+        {{end -}}
+      {{end -}}
+    </div>
+    <br>
+    {{with .Content}}
+      <div class="text">{{.}}</div>
+    {{end}}
+  </div>
+</main>
+{{end}}
+
+{{define "footer"}}
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const dates = document.querySelectorAll('.schedule__day');
+      const now = new Date();
+      let found = false;
+      [].forEach.call(dates, (d) => {
+        const dDate = new Date(d.dataset.day);
+        if (now < dDate && !found) {
+          d.classList.add('next');
+          found = true;
+        }
+      });
+    })
+  </script>
+{{end}}

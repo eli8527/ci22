@@ -7,7 +7,7 @@ menu:
 
 STUDENTS
 - Anna Blyumenkrants
-  <!-- {{< figure src="example.png" width="20%">}} -->
+  {{< figure src="/media/spf13.jpg" title="Steve Francia" >}}
 - Longcan Chao
 - Gayoung Do
 - Rose Henderschedt

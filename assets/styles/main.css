@@ -20,14 +20,21 @@
 
   --skew: 1.5deg;
   --skew--mobile: .75deg;
+
+  --schedule--grid: minmax(0, 1fr) minmax(0, 8fr) minmax(0, 2fr);
+  --schedule--cell--padding: calc(.5 * var(--margin));
+  --schedule--cell--padding--mobile: calc(.25 * var(--margin));
+  --schedule--grid--mobile: minmax(0, 1fr) minmax(0, 2fr) minmax(0, 1fr);
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 820px) {
   :root {
     --font-size--body: var(--font-size--body--mobile);
     --font-size--nav: var(--font-size--nav--mobile);
     --skew: var(--skew--mobile);
     --margin: var(--margin--mobile);
+    --schedule--grid: var(--schedule--grid--mobile);
+    --schedule--cell--padding: var(--schedule--cell--padding--mobile);
   }
 }
 
@@ -57,7 +64,7 @@ body {
 html, body,
 h1, h2, h3, p, 
 ul, li,
-dl, dt, dd {
+dl, dt, dd, figure {
   margin: initial;
   padding: initial;
 }
@@ -81,6 +88,10 @@ ul li {
   font-family:'Arial', sans-serif;
 }
 
+.center {
+  text-align: center;
+}
+
 /* Nav */
 select{
 	font-size: var(--font-size--nav);
@@ -96,7 +107,7 @@ select{
 /* Content */
 .layout-wrapper {
   overflow-y: hidden;
-  max-width: 720px;
+  max-width: 820px;
   margin-left: auto;
   margin-right: auto;
   padding-top: calc(3 * var(--margin));
@@ -114,6 +125,53 @@ select{
   column-gap: var(--margin);
 }
 
+/* Schedule */
+.schedule {
+  display: grid;
+  grid-template-columns: var(--schedule--grid);
+  color: var(--color--content--secondary);
+}
+
+.schedule > div,
+.schedule__week__link > div {
+  --color--outline: var(--color--content);
+
+  padding: var(--schedule--cell--padding);
+  outline: 1pt solid var(--color--outline);
+  margin-top: 1px;
+  margin-left: 1px;
+}
+
+.schedule__unit {
+  grid-column: span 3;
+}
+
+.schedule__week__link {
+  grid-column: span 3;
+  width: 100%;
+  display: grid;
+  grid-template-columns: var(--schedule--grid);
+  text-decoration: none;
+  color: currentColor;
+}
+
+.schedule__week__link:hover {
+  color: white;
+  background-color: var(--color--content);  
+}
+
+.schedule__week__link:hover > div {
+  --color--outline: white;
+}
+
+.schedule__week__link:hover .schedule__day.next {
+  color: black;
+}
+
+.schedule__day.next {
+  background-color: yellow;
+}
+
 /* Markdown */
 .text {
   word-break: break-word;
@@ -121,7 +179,12 @@ select{
 
 .text *:first-child,
 .text p + ul,
-.text p + ol {
+.text p + ol,
+.text li > ul,
+.text li > ol,
+.text h3 + p,
+.text h3 + ul,
+.text h3 + ol {
   margin-top: initial;
 }
 
@@ -134,7 +197,16 @@ select{
 
 .text h1,
 .text h2,
-.text h3 {
+.text h3,
+.text hr {
+  text-transform: uppercase;
   margin-top: calc(2 * var(--line-height));
-  font-size: initial;
+  font-size: inherit;
+  font-weight: bold;
+}
+
+
+.text hr {
+  border: 0.5px solid var(--color--content);
+  opacity: 47%;
 }

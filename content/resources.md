@@ -3,7 +3,7 @@ title: Resources
 columns: 2
 menu: 
   main:
-    weight: 30
+    weight: 40
 ---
 
 The technologies, languages, and libraries introduced in class are well documented online. If you are having difficulties, take time to troubleshoot online before asking for help. Good coding is good online searching!

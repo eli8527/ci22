@@ -1,7 +1,7 @@
 <nav>
   {{- $currentPage := . -}}
   <select class="ui" name="nav" onchange="updateNav(event)">
-    {{ range .Site.Menus.main.Reverse }}
+    {{ range .Site.Menus.main }}
       <option {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}selected{{end}} value="{{ .URL }}">{{ .Name }}</option>
     {{ end }}
   </select>

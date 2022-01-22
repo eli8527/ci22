@@ -2,16 +2,16 @@
 title: Home
 menu: 
   main:
-    weight: 0
+    weight: 1
 
 ---
 
-This is the class site for Core Interaction, Section A. 
+This is the class site for Core 2 Interaction, Section A. 
 <br>
 - [Slack](http://s22coreinteraction.slack.com)
 - [CD@Parsons](https://cdparsons.glideapp.io/)
 
-## CORE INTERACTION STUDIO
+## CORE 2 INTERACTION STUDIO
 
 PUCD 2125
 - [Studio Syllabus](https://docs.google.com/document/d/1T4CaLf_7Kp0WdrKDO3snbAVRawS3jPRVJXQbhUIMh7w/edit?usp=sharing)
@@ -25,7 +25,7 @@ Instructor: Sophie Auger
 augers@newschool.edu
 
 
-## CORE INTERACTION LAB
+## CORE 2 INTERACTION LAB
 
 PUCD 2126
 - [Lab Syllabus](https://docs.google.com/document/d/1ycrUzWqUblE90XBqz9ddXzKa-X0wsDVqpIXnfDxEmpQ/edit?usp=sharing)

@@ -207,6 +207,6 @@ select{
 
 
 .text hr {
-  border: 0.5px solid var(--color--content);
-  opacity: 47%;
+  border: 1px solid rgba(0, 0, 255, .47);
+
 }

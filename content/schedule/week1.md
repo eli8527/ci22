@@ -42,7 +42,7 @@ READ + WATCH
 
 ### In Class
 * Make sure you:
-  * Added slack avatar to [Slack](https://docs.google.com/document/d/1Y0fC4AILrgyHQkTIKKuFO3grS2DNSvuMcy4KzSemAKY/edit?usp=sharing) and [People page](/people)
+  * Added slack avatar to [Slack](https://docs.google.com/document/d/1Y0fC4AILrgyHQkTIKKuFO3grS2DNSvuMcy4KzSemAKY/edit?usp=sharing).
 * [Discuss](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit?usp=sharing) lectures + readings
 * Project 1: [Cross-Platform Storytelling](https://docs.google.com/document/d/1a-WplpmLyByJrNWhDEQRrCwUGYQAd-pvgrVSm-FkTKM/edit?usp=sharing) begins
 * What is a story? Narrative arc vs non-linear story
@@ -65,13 +65,15 @@ HW
 
 ### IN CLASS
 * 9–10 a.m., BFA CD Welcome Event ([Zoom](https://NewSchool.zoom.us/j/98634959030))
-* Meet the tools (Github, Glitch, Git, VSCode, Chrome)
 * What is HTML?
+* Meet the tools (Github, Git, VSCode, Chrome)
+* HTML introduction
+* Git workflows
+  * Add your slack avator to [People page](/people) and link to your github page by making a Pull Request.
 
 ### AFTER CLASS
 READ
 * Paul Ford
 
 HW
-* Finish survey
 * Semantics are everything

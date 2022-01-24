@@ -10,7 +10,7 @@ Core Interaction comprises two courses, taken concurrently: studio and lab. Toge
 
 **Lab** meets once a week and will focus on providing a technical and historical background to web development and the internet. The assignments are built to work in tandem with the projects students are developing in the studio class while reinforcing concepts taught in class. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML, CSS, JavaScript, and software engineering.
 
-Studio is divided into workshops, readings, as well as in-class, croup and individual crits. There is an emphasis on critical thinking, research, process, craft, and risk taking. Lab will focus on historical lectures and technical instruction, focusing on front-end software development (HTML, CSS, and JavaScript) and the context in which we operate as practitioners. 
+Studio is divided into workshops, readings, as well as in-class, group and individual crits. There is an emphasis on critical thinking, research, process, craft, and risk taking. Lab will focus on historical lectures and technical instruction, focusing on front-end software development (HTML, CSS, and JavaScript) and the context in which we operate as practitioners. 
 
 The ideas and concepts being taught in Studio and Lab are meant to complement each other. Certain class projects, critiques, and assessable tasks will thus exist across both classes, and their output will be evaluated jointly.
 

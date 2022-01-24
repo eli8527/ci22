@@ -25,5 +25,5 @@ STUDENTS
 - Tong Wu
 
 INSTRUCTORS
-- Sophie Auger
-- Eric Li
+- [Sophie Auger](https://www.sophieauger.com/)
+- [Eric Li](https://eric.young.li/)

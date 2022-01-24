@@ -4,7 +4,7 @@ menu:
   main:
     weight: 30
 ---
-We will be collecting thoughts and responses relating to studio readings are expected be collected in [discussion questions / comments](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit).
+Thoughts and responses relating to studio readings are expected be collected in [discussion questions / comments](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit).
 <br/>
 
 - [Reading leaders signup sheet](https://docs.google.com/document/d/1rixPKi2pmKr-eSfHzbp6NFr8zVOIDYezl-GbPGsvyNk/edit)

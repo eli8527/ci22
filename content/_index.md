@@ -9,7 +9,8 @@ menu:
 This is the class site for Core 2 Interaction, Section A. 
 <br>
 - [Slack](http://s22coreinteraction.slack.com)
-- [CD@Parsons](https://cdparsons.glideapp.io/)
+- [CD Lecture Responses]()
+- [Code Tutoring](https://www.newschool.edu/learning-center/) 
 
 ## CORE 2 INTERACTION STUDIO
 

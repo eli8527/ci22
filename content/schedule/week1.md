@@ -29,8 +29,8 @@ days:
 
 ### AFTER CLASS
 READ + WATCH
-* Cyberspace Origins (lecture)
-* Internet Today (lecture)
+* [Cyberspace Origins (lecture)](https://vimeo.com/501962625) &
+* [Internet Today (lecture)](https://vimeo.com/502002510) on vimeo, check Slack for the password
 * Olia Lialina (reading) 
       
 

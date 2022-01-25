@@ -27,6 +27,11 @@ All work is expected to be hosted on Github Pages. You are expected to create an
 A1: Semantics are everything
 Create an HTML page featuring a collection of text. You are only allowed to use HTML tags to accomplish your layout. And you must use at least 6 different tags. Document what each tag does and why you selected that collection.
 
+By beginning of next class, upload this page to GitHub Pages. Your README.md should document what each tag does and why you selected that collection.
+
+---
+The assignments below are subject to adjustment.
+
 A2: Garden
 Using CSS and HTML, create your own digital garden. Using pseudo selectors, elements should do something when interacted with.
 

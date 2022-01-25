@@ -16,7 +16,7 @@ days:
 
 ---
 
-## {{% dateFormat "2022-01-25" %}}
+## {{< dateFormat "2022-01-25" >}} Studio
 
 ### IN CLASS
 * Introductions (Sophie and Eric)
@@ -38,7 +38,7 @@ READ + WATCH
   
 ---
 
-## {{% dateFormat "2022-01-27" %}}
+## {{< dateFormat "2022-01-27" >}} Studio
 
 ### In Class
 * Make sure you:
@@ -61,19 +61,27 @@ HW
 
 ---
 
-## {{% dateFormat "2022-01-28" %}}
+## {{< dateFormat "2022-01-28" >}} Lab
 
 ### IN CLASS
 * 9–10 a.m., BFA CD Welcome Event ([Zoom](https://NewSchool.zoom.us/j/98634959030))
-* What is HTML?
+* Lab overview (Syllabus, Assignments, course structure)
 * Meet the tools (Github, Git, VSCode, Chrome)
-* HTML introduction
-* Git workflows
-  * Add your slack avator to [People page](/people) and link to your github page by making a Pull Request.
+  * [GitHub](https://github.com/). Sign up for an account and apply for a [student account](https://education.github.com/discount_requests/student_application).
+  * [What is git?](https://rogerdudler.github.io/git-guide/)
+  * [VSCode](https://code.visualstudio.com/)
+  * [Google Chrome](https://www.google.com/chrome/)
+  * [Terminal](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+* What is HTML?
+  * [MDN: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+  * [MDN: A list of HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+  * [Markdown?](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Exercise: Git workflows
+  * Add your slack avator to [People page](/people) and link to your github page by making a Pull Request. More instructions [here](https://github.com/eli8527/ci22/).
 
 ### AFTER CLASS
 READ
 * Paul Ford
 
 HW
-* Semantics are everything
+* A1: Semantics are everything

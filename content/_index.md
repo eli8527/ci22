@@ -30,7 +30,7 @@ PUCD 2126
 - Fr 9–11:40 AM
   66 5th Ave, Rm 818
 - [Lab Zoom](https://NewSchool.zoom.us/j/92535344392)
-  Password: 934497
+  Password on Canvas
   
 Instructor: Eric Li
 lie@newschool.edu

@@ -42,7 +42,7 @@ READ + WATCH
 
 ### In Class
 * Make sure you:
-  * Added slack avatar to Slack and ["People" page](https://docs.google.com/document/d/1Y0fC4AILrgyHQkTIKKuFO3grS2DNSvuMcy4KzSemAKY/edit?usp=sharing).
+  * Added slack avatar to Slack
 * [Discuss](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit?usp=sharing) lectures + readings
 * Project 1: [Cross-Platform Storytelling](https://docs.google.com/document/d/1a-WplpmLyByJrNWhDEQRrCwUGYQAd-pvgrVSm-FkTKM/edit?usp=sharing) begins
 * What is a story? Narrative arc vs non-linear story

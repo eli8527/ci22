@@ -33,8 +33,7 @@ READ + WATCH
 * [Internet Today (lecture)](https://vimeo.com/502002510) on vimeo, check Slack for the password
 * Olia Lialina (reading) 
       
-
-& write your discussion questions/comments [here](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit)
+Everyone writes a discussion comment or question [here](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit). Reading leaders, please connect the readings to the two lectures and prepare comments and questions around this.
   
 ---
 

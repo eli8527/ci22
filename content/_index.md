@@ -17,8 +17,7 @@ This is the class site for Core 2 Interaction, Section A.
 PUCD 2125
 - T/Th 9–11:40 AM
   66 5th Ave, Rm 710
-- [Studio Zoom](https://rutgers.zoom.us/my/sa1568)
-  Password: 123122
+- [Studio Zoom](https://rutgers.zoom.us/my/sa1568) 
 
 Instructor: Sophie Auger
 augers@newschool.edu
@@ -30,7 +29,6 @@ PUCD 2126
 - Fr 9–11:40 AM
   66 5th Ave, Rm 818
 - [Lab Zoom](https://NewSchool.zoom.us/j/92535344392)
-  Password on Canvas
   
 Instructor: Eric Li
 lie@newschool.edu

@@ -9,13 +9,13 @@ menu:
 The technologies, languages, and libraries introduced in class are well documented online. If you are having difficulties, take time to troubleshoot online before asking for help. Good coding is good online searching!
 
 [Core 2 Class Lectures](https://docs.google.com/document/d/170uNsfAHfwECZHN0YcPS5lU_XrFOX-n_WlkHQGggorU/edit)
-Vimeo pw: interaction
+Vimeo pw: (find in the #studio Slack channel)
 
-Office hours with [CD Tutors](https://docs.google.com/spreadsheets/d/1O98evVVd0QH0ZTzo1mvRUzZRJyywxOWnYN66EIHLW-Q/edit?usp=sharing)
+Office hours with [CD Tutors](https://www.newschool.edu/learning-center/) 
 
 Required Communication Design visiting lecture series:
 Archived [here](https://www.youtube.com/channel/UCHehLDRBXdVyf-CiLIOC5gg)
-Fridays, 3–4pm
+2022 schedule on [CD@Parsons/events](https://cdparsons.glideapp.io/)
 
 
 GETTING SETUP
@@ -24,11 +24,6 @@ GETTING SETUP
 - [Basic file structure demo](https://drive.google.com/file/d/1d-f4L-lqo9QXx6SCdjJxH3r583QMmE2r/view?usp=sharing)
 - [Github site template](https://docs.google.com/document/d/1afJ50gIwD2DikOhjUgMS0w-rH9JAYMp7NdGXUFgVqQY/edit)
 - [Organizing and Naming Files](https://docs.google.com/presentation/d/1QPCMwFaaoZrHwfGZDw66vD0-F2a_KOlRXK8SW6SJbP0/edit?usp=drive_open&ouid=104713427353541774917)
-
-
-OTHER CLASS LINKS 
-- [Presentation calendar](https://docs.google.com/document/d/12V1avo8jRuK3Q1Ju1ZPPesfXiB3-vILaS8EbftJOb-E/edit)
-- [Lecture response folder](https://drive.google.com/drive/folders/1WZWSZFV8-M82gef87qq5ebu6Bi6eFO9W?usp=sharing) + [prompt](https://docs.google.com/document/d/1xRZ4ZXu29W_nSUM9DyrDI5eaJ6L-oVTnmImR-g6a2YY/edit)
 
 
 COLLECTIVE COURSE DEMOS

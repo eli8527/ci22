@@ -10,7 +10,6 @@ This is the class site for Core 2 Interaction, Section A.
 <br>
 - [Slack](http://s22coreinteraction.slack.com)
 - [CD Lecture Responses](https://docs.google.com/document/d/1bn3rViEAUYl9OhNsVYa8NoAUCQ1ZuLogm_YaI4MZ1qM/preview)
-- [Code Tutoring](https://www.newschool.edu/learning-center/) 
 
 ## CORE 2 INTERACTION STUDIO
 

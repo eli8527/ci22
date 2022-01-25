@@ -169,6 +169,6 @@ Cross-Platform Storytelling, What&rsquo;s the point of critique?, A brief histor
 </div>
 </div>
 </main>
-<script>document.addEventListener('DOMContentLoaded',()=>{const b=document.querySelectorAll('.schedule__day'),c=new Date;let a=!1;[].forEach.call(b,b=>{const d=new Date(b.dataset.day);c<d&&!a&&(b.classList.add('next'),a=!0)})})</script>
+<script>document.addEventListener('DOMContentLoaded',()=>{const b=document.querySelectorAll('.schedule__day'),c=new Date;let a=!1;[].forEach.call(b,b=>{const d=new Date(`${b.dataset.day} 9:00`);c<=d&&!a&&(b.classList.add('next'),a=!0)})})</script>
 </body>
 </html>

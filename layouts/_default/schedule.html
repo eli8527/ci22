@@ -49,7 +49,7 @@
       const now = new Date();
       let found = false;
       [].forEach.call(dates, (d) => {
-        const dDate = new Date(`${d.dataset.day}T09:00:00-05:00`);
+        const dDate = new Date(`${d.dataset.day}T12:00:00-05:00`);
         if (now <= dDate && !found) {
           d.classList.add('next');
           found = true;

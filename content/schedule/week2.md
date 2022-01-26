@@ -19,10 +19,9 @@ activeDate: "2022-01-30"
 ### In Class
 * Discuss lectures + readings
 * Look at screen time + screenshot portrait
-* General questions about platform + HW Part 2
-* Add links from P1: Part 1 
-* One-on-ones to review P1: Part 1
-  * Review P1: Part 1 in groups of 3 (10 min per person)
+* Figma workspace and tips
+* Small group meetings to discuss project ideas
+  * in groups of 3 (10 min per person)
   * Review [What's the point of critique](https://drive.google.com/file/d/1g6mQ2rKx32gW6D-MKBG8nvGWiqGY7nK3/view?usp=sharing)
 
 ### After Class

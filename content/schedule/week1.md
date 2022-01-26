@@ -40,7 +40,7 @@ Everyone writes a discussion comment or question [here](https://docs.google.com/
 ## {{< dateFormat "2022-01-27" >}} Studio
 
 ### In Class
-* [Discuss](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit?usp=sharing) lectures + readings. Ines is our discussion Leader.
+* [Discuss](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit?usp=sharing) lectures + readings. Ines is our discussion leader.
 * Project 1: [Cross-Platform Storytelling](https://docs.google.com/document/d/1a-WplpmLyByJrNWhDEQRrCwUGYQAd-pvgrVSm-FkTKM/edit?usp=sharing) begins
 * What is a story? Narrative arc vs non-linear story
 * Exercise: [Screen Time](https://docs.google.com/document/d/1BtpLHkVY5a9SusP2ECAt6sl-84yKz5pziPSQG_AE7I8/edit?usp=sharing) (finish on your own time)

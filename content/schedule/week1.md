@@ -40,9 +40,7 @@ Everyone writes a discussion comment or question [here](https://docs.google.com/
 ## {{< dateFormat "2022-01-27" >}} Studio
 
 ### In Class
-* Make sure you:
-  * Added slack avatar to Slack
-* [Discuss](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit?usp=sharing) lectures + readings
+* [Discuss](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit?usp=sharing) lectures + readings. Ines is our discussion Leader.
 * Project 1: [Cross-Platform Storytelling](https://docs.google.com/document/d/1a-WplpmLyByJrNWhDEQRrCwUGYQAd-pvgrVSm-FkTKM/edit?usp=sharing) begins
 * What is a story? Narrative arc vs non-linear story
 * Exercise: [Screen Time](https://docs.google.com/document/d/1BtpLHkVY5a9SusP2ECAt6sl-84yKz5pziPSQG_AE7I8/edit?usp=sharing) (finish on your own time)
@@ -55,6 +53,7 @@ READ
 HW
 * Finish Exercise: Screen Time
 * Exercise: Screenshot Portrait (DM me if you have any questions about this)
+* Sign up for Figma and download the desktop app as well as the font installer, DO NOT skip the font installer step! Then join our team – you will design in the project with your name on it.
 * P1: Part 1
 
 

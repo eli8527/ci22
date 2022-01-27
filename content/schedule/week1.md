@@ -47,13 +47,11 @@ Everyone writes a discussion comment or question [here](https://docs.google.com/
 
 ### After Class
 READ
-* Jill Lepore
-* Amanda Hess
+* Jill Lepore, Can the Internet be Archived? Add your notes/comments to the discussion page. Hannah, you will lead the discussion on Tuesday.
 
 HW
 * Finish Exercise: Screen Time
 * P1: Part 1
-* Read: Jill Lepore, Can the Internet be Archived? Add your notes/comments to the discussion page. Hannah, you will lead the discussion on Tuesday.
 
 
 ---

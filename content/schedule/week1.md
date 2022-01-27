@@ -52,6 +52,7 @@ READ
 HW
 * Finish Exercise: Screen Time
 * P1: Part 1
+* Sign up for [Figma](https://www.figma.com/fr/downloads/) and download the desktop app as well as the font installer, DO NOT skip the font installer step!
 
 
 ---

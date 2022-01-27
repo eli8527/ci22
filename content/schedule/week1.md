@@ -42,8 +42,8 @@ Everyone writes a discussion comment or question [here](https://docs.google.com/
 ### In Class
 * [Discuss](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit?usp=sharing) lectures + readings. Ines is our discussion leader.
 * Project 1: [Cross-Platform Storytelling](https://docs.google.com/document/d/1a-WplpmLyByJrNWhDEQRrCwUGYQAd-pvgrVSm-FkTKM/edit?usp=sharing) begins
-* What is a story? Narrative arc vs non-linear story
-* [In class activity](https://docs.google.com/document/d/1zVFa_g2ztfns6PA-SHBAhbKCq731kQtymrxnnJUMgT8/edit#)
+* What is a story? [Narrative arc vs non-linear story](https://docs.google.com/document/d/1zVFa_g2ztfns6PA-SHBAhbKCq731kQtymrxnnJUMgT8/preview)
+* [Exercise: Screen Time](https://docs.google.com/document/d/1BtpLHkVY5a9SusP2ECAt6sl-84yKz5pziPSQG_AE7I8/edit?usp=sharing)
 
 ### After Class
 READ
@@ -51,7 +51,7 @@ READ
 * Amanda Hess
 
 HW
-* Exercise: Screenshot Portrait (DM me if you have any questions about this)
+* Finish Exercise: Screen Time
 * P1: Part 1
 * Read: Jill Lepore, Can the Internet be Archived? Add your notes/comments to the discussion page. Hannah, you will lead the discussion on Tuesday.
 

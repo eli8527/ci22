@@ -10,7 +10,6 @@ STUDENTS
   <!-- {{< figure src="example.png" width="20%">}} -->
 - Longcan Chao
 - Gayoung Do
-- Rose Henderschedt
 - Themis Kung
 - Haylee Lee
 - Talita Ozkok

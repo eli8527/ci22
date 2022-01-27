@@ -43,7 +43,7 @@ Everyone writes a discussion comment or question [here](https://docs.google.com/
 * [Discuss](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit?usp=sharing) lectures + readings. Ines is our discussion leader.
 * Project 1: [Cross-Platform Storytelling](https://docs.google.com/document/d/1a-WplpmLyByJrNWhDEQRrCwUGYQAd-pvgrVSm-FkTKM/edit?usp=sharing) begins
 * What is a story? Narrative arc vs non-linear story
-* In class activity
+* [In class activity](https://docs.google.com/document/d/1zVFa_g2ztfns6PA-SHBAhbKCq731kQtymrxnnJUMgT8/edit#)
 
 ### After Class
 READ

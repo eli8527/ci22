@@ -17,26 +17,26 @@ activeDate: "2022-01-30"
 ## {{< dateFormat "2022-02-01" >}} Studio
 
 ### In Class
-* Discuss lectures + readings
-* Look at screen time + screenshot portrait
+* Discuss lectures + readings. Hannah is our discussion leader.
 * Figma workspace and tips
 * Small group meetings to discuss project ideas
-  * in groups of 3 (10 min per person)
   * Review [What's the point of critique](https://drive.google.com/file/d/1g6mQ2rKx32gW6D-MKBG8nvGWiqGY7nK3/view?usp=sharing)
+  * in groups of 3 (10 min per person)
+  * ambient work time (P1: Part 2)
 
 ### After Class
 * P1: Part 2
+* Exercise: Screenshot Portrait
 
 ---
 
 ## {{< dateFormat "2022-02-03" >}} Studio
 
 ### In Class
-* Discuss final presentation 
 * One-on-ones: Implementation
 
 ### After Class
-* Finish P1
+* P1: Part 3
 
 ---
 

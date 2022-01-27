@@ -43,17 +43,16 @@ Everyone writes a discussion comment or question [here](https://docs.google.com/
 * [Discuss](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit?usp=sharing) lectures + readings. Ines is our discussion leader.
 * Project 1: [Cross-Platform Storytelling](https://docs.google.com/document/d/1a-WplpmLyByJrNWhDEQRrCwUGYQAd-pvgrVSm-FkTKM/edit?usp=sharing) begins
 * What is a story? [Narrative arc vs non-linear story](https://docs.google.com/document/d/1zVFa_g2ztfns6PA-SHBAhbKCq731kQtymrxnnJUMgT8/preview)
-* [Exercise: Screen Time](https://docs.google.com/document/d/1BtpLHkVY5a9SusP2ECAt6sl-84yKz5pziPSQG_AE7I8/edit?usp=sharing)
+* [Exercise: Storytelling](https://docs.google.com/document/d/1zVFa_g2ztfns6PA-SHBAhbKCq731kQtymrxnnJUMgT8/edit#)
 
 ### After Class
-READ
+READ + WATCH
 * Jill Lepore, Can the Internet be Archived? Add your notes/comments to the discussion page. Hannah, you will lead the discussion on Tuesday.
+* [How to use Figma](https://youtu.be/jk1T0CdLxwU?t=5s)
 
 HW
-* Finish Exercise: Screen Time
 * P1: Part 1
 * Sign up for [Figma](https://www.figma.com/fr/downloads/) and download the desktop app as well as the font installer, DO NOT skip the font installer step!
-
 
 ---
 

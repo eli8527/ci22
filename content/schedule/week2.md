@@ -47,6 +47,10 @@ LECTURE
 * A brief history of the internet
 
 TECHNICAL
+* Github Review
+* [Markdown?](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Exercise: Git workflows
+  * Add your slack avator to [People page](/people) and link to your github page by making a Pull Request. More instructions [here](https://github.com/eli8527/ci22/).
 * CSS selectors, properties, naming
 * CSS pseudoselectors
 * Chrome inspector

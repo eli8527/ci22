@@ -22,7 +22,6 @@ activeDate: "2022-01-30"
 * Review [What's the point of critique](https://drive.google.com/file/d/1g6mQ2rKx32gW6D-MKBG8nvGWiqGY7nK3/view?usp=sharing)
 * Small group meetings to discuss project ideas
   * in groups of 3 (10 min per person)
-* Back together as a class: share feedback summary
 * ambient work time (P1: Part 2)
 
 ### After Class

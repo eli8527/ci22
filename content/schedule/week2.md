@@ -19,14 +19,14 @@ activeDate: "2022-01-30"
 ### In Class
 * Discuss lectures + readings. Hannah is our discussion leader.
 * Figma workspace and tips
+* Review [What's the point of critique](https://drive.google.com/file/d/1g6mQ2rKx32gW6D-MKBG8nvGWiqGY7nK3/view?usp=sharing)
 * Small group meetings to discuss project ideas
-  * Review [What's the point of critique](https://drive.google.com/file/d/1g6mQ2rKx32gW6D-MKBG8nvGWiqGY7nK3/view?usp=sharing)
   * in groups of 3 (10 min per person)
-  * ambient work time (P1: Part 2)
+* Back together as a class: share feedback summary
+* ambient work time (P1: Part 2)
 
 ### After Class
 * P1: Part 2
-* Exercise: Screenshot Portrait
 
 ---
 
@@ -34,9 +34,11 @@ activeDate: "2022-01-30"
 
 ### In Class
 * One-on-ones: Implementation
+* Exercise: [Screen Time] (https://docs.google.com/document/d/1BtpLHkVY5a9SusP2ECAt6sl-84yKz5pziPSQG_AE7I8/edit)
 
 ### After Class
 * P1: Part 3
+* Finish exercise: Screen Time
 
 ---
 

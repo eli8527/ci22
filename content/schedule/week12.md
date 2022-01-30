@@ -11,3 +11,29 @@ days:
   - "2022-04-22"
 activeDate: "2022-04-17"
 ---
+
+# WEEK 12
+
+---
+
+## {{< dateFormat "2022-04-19" >}} Studio
+
+### In Class
+
+### After Class
+
+---
+
+## {{< dateFormat "2022-04-21" >}} Studio
+
+### In Class
+
+### After Class
+
+---
+
+## {{< dateFormat "2022-04-22" >}} Lab
+
+### In Class
+
+### After Class

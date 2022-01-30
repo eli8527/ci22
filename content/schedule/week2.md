@@ -34,7 +34,7 @@ activeDate: "2022-01-30"
 
 ### In Class
 * One-on-ones: Implementation
-* Exercise: [Screen Time] (https://docs.google.com/document/d/1BtpLHkVY5a9SusP2ECAt6sl-84yKz5pziPSQG_AE7I8/edit)
+* Exercise: [Screen Time](https://docs.google.com/document/d/1BtpLHkVY5a9SusP2ECAt6sl-84yKz5pziPSQG_AE7I8/edit)
 
 ### After Class
 * P1: Part 3

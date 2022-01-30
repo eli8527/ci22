@@ -44,6 +44,9 @@ activeDate: "2022-01-30"
 ## {{< dateFormat "2022-02-04" >}} Lab
 
 ### In Class
+REVIEWS
+* 1–2 minute speed crit/show and tell. Be prepared to showcase your website/collection, and highlight one unconventional HTML tag you used. Presenter picks next person.
+
 LECTURE
 * A brief history of the internet
 

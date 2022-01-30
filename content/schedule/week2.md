@@ -18,10 +18,10 @@ activeDate: "2022-01-30"
 
 ### In Class
 * Discuss lectures + readings. Hannah is our discussion leader.
-* [Today's Notes](https://www.dropbox.com/scl/fi/e7yzi3ed75gj52qlvkea4/S22-CI2-Week-2-Class-1-Cross-platform-Storytelling.paper?dl=0&rlkey=brawfe6fp32ohd6ggwxqyo4ob)
+* [Today's Notes](https://docs.google.com/document/d/17It7FEw2AgOOKfwwnhH0N5x4BfyChO5GIfsI-cWSA-I/preview?usp=sharing)
 * Review [What's the point of critique](https://drive.google.com/file/d/1g6mQ2rKx32gW6D-MKBG8nvGWiqGY7nK3/view?usp=sharing)
 * Small group meetings to discuss project ideas
-  * in groups of 3 (10 min per person)
+  * in groups of 3-4
 * ambient work time (P1: Part 2)
 
 ### After Class

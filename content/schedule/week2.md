@@ -18,7 +18,7 @@ activeDate: "2022-01-30"
 
 ### In Class
 * Discuss lectures + readings. Hannah is our discussion leader.
-* Figma workspace and tips
+* [Today's Notes](https://www.dropbox.com/scl/fi/e7yzi3ed75gj52qlvkea4/S22-CI2-Week-2-Class-1-Cross-platform-Storytelling.paper?dl=0&rlkey=brawfe6fp32ohd6ggwxqyo4ob)
 * Review [What's the point of critique](https://drive.google.com/file/d/1g6mQ2rKx32gW6D-MKBG8nvGWiqGY7nK3/view?usp=sharing)
 * Small group meetings to discuss project ideas
   * in groups of 3 (10 min per person)

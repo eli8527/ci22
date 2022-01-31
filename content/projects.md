@@ -25,7 +25,7 @@ All work is expected to be hosted on Github Pages. You are expected to create an
 
 ## Lab Assignments
 A1: Semantics are everything
-Create an HTML page featuring a collection of text. You are only allowed to use HTML tags to accomplish your layout. And you must use at least 6 different tags. Document what each tag does in HTML comments above the tag, and include a line on your page about why you selected that collection.
+Create an HTML page featuring a collection of text (eg a set of quotes, street names near you, directions from A to B, elements of typographic style, good [email sign-offs](https://www.are.na/meg-miller/good-sign-offs), a list of spam texts you've gotten). You are only allowed to use HTML tags to accomplish your layout. And you must use at least 6 different tags. Document what each tag does in HTML comments above the tag, and include a line on your page about why you selected that collection and how it all ties together.
 
 By beginning of next class, upload this page to GitHub Pages.
 

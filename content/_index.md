@@ -9,6 +9,7 @@ menu:
 This is the class site for Core 2 Interaction, Section A. 
 <br>
 - [Slack](http://s22coreinteraction.slack.com)
+- [CD Tutors Schedule](https://docs.google.com/spreadsheets/d/1MpC1sDuiqYcv4-GGaFT2BvvwV2oKO2VmkqXTZNgqcck/edit?usp=sharing)
 - [CD Lecture Responses](https://docs.google.com/document/d/1bn3rViEAUYl9OhNsVYa8NoAUCQ1ZuLogm_YaI4MZ1qM/preview)
 
 ## CORE 2 INTERACTION STUDIO

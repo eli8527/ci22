@@ -25,6 +25,7 @@ activeDate: "2022-01-30"
 
 ### After Class
 * P1: Part 2
+* Finish Exercise: Screen Time
 
 ---
 

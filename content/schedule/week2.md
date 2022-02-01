@@ -26,7 +26,6 @@ activeDate: "2022-01-30"
 
 ### After Class
 * P1: Part 2
-* Finish Exercise: Screen Time
 
 ---
 
@@ -34,11 +33,10 @@ activeDate: "2022-01-30"
 
 ### In Class
 * One-on-ones: Implementation
-* Exercise: [Screen Time](https://docs.google.com/document/d/1BtpLHkVY5a9SusP2ECAt6sl-84yKz5pziPSQG_AE7I8/edit)
 
 ### After Class
 * P1: Part 3
-* Finish exercise: Screen Time
+* Read Amanda Hess, _Slack Off: How workplace chat is changing office culture_ & add write your comments/questions in the Unit 1 Reading document. Sophie will be our Discussion Leader. 
 
 ---
 

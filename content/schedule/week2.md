@@ -22,10 +22,11 @@ activeDate: "2022-01-30"
 * Review [What's the point of critique](https://drive.google.com/file/d/1g6mQ2rKx32gW6D-MKBG8nvGWiqGY7nK3/view?usp=sharing)
 * Small group meetings to discuss project ideas
   * in groups of 3-4
-* ambient work time (P1: Part 2)
+* ambient work time (Exercise: Screen Time)
 
 ### After Class
 * P1: Part 2
+* Finish Exercise: Screen Time
 
 ---
 

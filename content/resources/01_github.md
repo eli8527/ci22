@@ -58,4 +58,6 @@ At this point, your `index.html` at the root of your repository (root means the 
 
 Note that we can omit the final `index.html` in most cases because the web browser will find it by default. However with the example exercise, we must add the additional `example.html` in the anchor tag in order for the browser to locate the file correctly.
 
+At this point, we can commit our changes on GitHub Desktop, and push them to GitHub so that it can be viewed online.
+
 This example can be found [here](https://github.com/eli8527/CI22-portfolio). The live site is [here](https://eli8527.github.io/CI22-portfolio/).

@@ -1,5 +1,6 @@
 ---
 title: Resources
+layout: resources
 columns: 2
 menu: 
   main:

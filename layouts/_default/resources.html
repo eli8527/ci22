@@ -1,0 +1,40 @@
+
+{{define "title"}}
+{{.Title | markdownify}} — {{ .Site.Title }}
+{{end}}
+
+{{ define "main" }}
+{{- partial "nav.html" . -}}
+<main class="layout-wrapper">
+  <div 
+    class="
+      content 
+      text
+    "
+    >
+    <h2>Tutorials</h2>
+    <ul>
+      {{- range sort .CurrentSection.Pages "File.Path"}}
+      <li>
+        <a href="{{.Permalink}}">
+          {{.Title}}
+        </a>
+      </li>
+      {{end -}}
+    </li>
+  </div>
+  <div 
+    class="
+      content 
+      text
+    "
+    style="
+      {{- with .Params.Columns}}
+        --column--count: {{.}};
+      {{end -}}
+    "
+    >
+    {{.Content}}
+  </div>
+</main>
+{{end}}

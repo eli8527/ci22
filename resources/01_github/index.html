@@ -1,0 +1,60 @@
+<!doctype html><html lang=en-us>
+<head>
+<meta charset=utf-8>
+<meta content="initial-scale=1,width=device-width,viewport-fit=cover" name=viewport>
+<meta name=color-scheme content="dark light"><link href=/icons/favicon.png rel=icon sizes=all>
+<title>
+Github — Core Interaction Spring 2022
+</title><link href=/styles/main.e299dece38583af8aee5811046c683c885fd1d64fa4917af1bab3454c7d948935a791382245e3d3bf86ae32a08531b4e794ac1d8cc2306c89634a373564b35cc.css rel=stylesheet><script src=/scripts/main.b4112172f4263989f1596fb16208d7aed5fc3aede77a205edef9011ac6f4ce32c32372af5d313846a92a754cd77a1acf833c9e6bb792ec92a99004a8c9290ce4.js></script>
+</head>
+<body>
+<nav><select class=ui name=nav onchange=updateNav(event)><option value=/>Home</option><option value=/syllabus/>Syllabus</option><option value=/schedule/>Schedule</option><option value=/projects/>Projects</option><option value=/readings/>Readings</option><option selected value=/resources/>Resources</option><option value=/people/>People</option></select>
+<script>updateNav=a=>{const b=a.target.value;window.location.href=b}</script>
+</nav><main class=layout-wrapper>
+<div class="content
+text">
+<p>As a reminder, Git is a tool for version controlling your code. Your code is committed into repositories, where each project has its own repository. For this course, all projects and assignments will be organized into one repository. GitHub is a service that hosts a copy of your git repository online. This makes it easy for others to contribute to, and most importantly host it online as a website.</p>
+<p>At this point your repository on your computer probably looks like this:</p>
+<pre tabindex=0><code>ci22-portfolio/
+|-index.html
+</code></pre><p><code>ci22-portfolio</code> is the root folder, and within it, <code>index.html</code> is the index file for the first assignment. as we will be hosting all your work on here, including studio work, we should adjust the folder structure to be:</p>
+<pre tabindex=0><code>ci22-portflio/
+|- a1/
+  |- index.html
+|- p1/
+  |- index.html
+|- exercises/
+  |- example.html
+index.html
+</code></pre><p>By introducing this directory structure, we also modify the URL structure (since the two are inherently linked).</p>
+<p>The <code>index.html</code> file at the base of the directory will function as your homepage. Here, you should link out to everything else contained within the repository.</p>
+<p>This is the file that <code>https://yourusename.github.io/ci22-portfolio/</code> will load where <code>yourusername</code> is your github username and <code>ci22-portfolio</code> is the name of your repository on GitHub.</p>
+<p><code>a1/</code>, <code>exercises/</code>, and <code>p1/</code> are examples of subdirectories that will be accesed by appending their names to the URL of your site and are structured based on the assignments in lab and studio. This allows someone to access <code>a1</code> by just going to <code>https://yourusername.github.io/ci22-portfolio/a1</code>.</p>
+<p>At this point, your <code>index.html</code> at the root of your repository (root means the top level and not nested inside another folder) should contain something like this:</p>
+<pre tabindex=0><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;title&gt;My CI22 Work&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Projects&lt;/h1&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;a href=&quot;a1&quot;&gt;Assignment 1&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a href=&quot;p1&quot;&gt;Project 1&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a href=&quot;exercises/example.html&quot;&gt;Exercise Example&lt;/a&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre><p>Note that we can omit the final <code>index.html</code> in most cases because the web browser will find it by default. However with the example exercise, we must add the additional <code>example.html</code> in the anchor tag in order for the browser to locate the file correctly.</p>
+<p>This example can be found <a href=https://github.com/eli8527/CI22-portfolio>here</a>. The live site is <a href=https://eli8527.github.io/CI22-portfolio/>here</a>.</p>
+</div>
+</main>
+</body>
+</html>

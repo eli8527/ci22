@@ -38,7 +38,7 @@ activeDate: "2022-01-30"
 * [File Structure Demo](https://drive.google.com/file/d/1d-f4L-lqo9QXx6SCdjJxH3r583QMmE2r/view)
 
 ### After Class
-* P1: Part 3
+* P1: Part 4
 * Read Amanda Hess, _Slack Off: How workplace chat is changing office culture_ & add write your comments/questions in the Unit 1 Reading document. Sophie will be our Discussion Leader. 
 
 ---

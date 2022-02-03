@@ -33,7 +33,7 @@ activeDate: "2022-01-30"
 
 ### In Class
 * One-on-ones: Implementation
-* Review [What's the point of critique](https://drive.google.com/file/d/1g6mQ2rKx32gW6D-MKBG8nvGWiqGY7nK3/view?usp=sharing)
+* Review [Organizing Files for the Web](https://docs.google.com/presentation/d/101TEdtacOFZhCwebijcJaX0h1BpDwhAm2SJhE3jW89c/edit#slide=id.g331f24f572_4_0)
 
 ### After Class
 * P1: Part 3

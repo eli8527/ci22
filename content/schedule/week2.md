@@ -32,7 +32,7 @@ activeDate: "2022-01-30"
 ## {{< dateFormat "2022-02-03" >}} Studio
 
 ### In Class
-* One-on-ones: Implementation
+* Small group crits: Implementation
 * [Today's Notes](https://docs.google.com/document/d/17It7FEw2AgOOKfwwnhH0N5x4BfyChO5GIfsI-cWSA-I/preview)
 * Review [Organizing Files for the Web](https://docs.google.com/presentation/d/101TEdtacOFZhCwebijcJaX0h1BpDwhAm2SJhE3jW89c/edit#slide=id.g331f24f572_4_0)
 

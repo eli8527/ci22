@@ -19,6 +19,7 @@ activeDate: "2022-02-06"
 
 ### In Class
 * P1: Final crit with Sophie & Eric
+* Review [What's the point of critique](https://drive.google.com/file/d/1g6mQ2rKx32gW6D-MKBG8nvGWiqGY7nK3/view?usp=sharing)
   * Last person who presented is first to speak about next presenter’s work
 
 ### After Class

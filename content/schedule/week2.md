@@ -34,7 +34,8 @@ activeDate: "2022-01-30"
 ### In Class
 * Small group crits: Implementation
 * [Today's Notes](https://docs.google.com/document/d/17It7FEw2AgOOKfwwnhH0N5x4BfyChO5GIfsI-cWSA-I/preview)
-* Review [Organizing Files for the Web](https://docs.google.com/presentation/d/101TEdtacOFZhCwebijcJaX0h1BpDwhAm2SJhE3jW89c/edit#slide=id.g331f24f572_4_0)
+* [Organizing Files for the Web](https://docs.google.com/presentation/d/101TEdtacOFZhCwebijcJaX0h1BpDwhAm2SJhE3jW89c/edit#slide=id.g331f24f572_4_0)
+* [File Structure Demo](https://drive.google.com/file/d/1d-f4L-lqo9QXx6SCdjJxH3r583QMmE2r/view)
 
 ### After Class
 * P1: Part 3

@@ -29,11 +29,14 @@ Create an HTML page featuring a collection of text (eg a set of quotes, street n
 
 By beginning of next class, upload this page to GitHub Pages.
 
+A2: Garden
+Using CSS and HTML, create your own digital garden. There should be at least 4 distinct elements of your garden in the browser. Using pseudo class selectors, some of these elements should do something when interacted with.
+
+By beginning of next class, upload this page to GitHub Pages and link to it from your homepage.
+
 ---
 The assignments below are subject to adjustment.
 
-A2: Garden
-Using CSS and HTML, create your own digital garden. Using pseudo selectors, elements should do something when interacted with.
 
 A3: It’s all about type
 Switch collections of text from A1 with a partner. Using the text as content, design and layout a web page to house that collection of text. Use what we’ve learned so far about HTML elements and CSS. This design should be responsive and offer different design interactions depending on desktop/mobile/print.

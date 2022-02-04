@@ -8,3 +8,5 @@ services:
       - ".:/src"
     ports:
       - "1313:1313"
+    environment:
+      VIRTUAL_HOST: ci22.local

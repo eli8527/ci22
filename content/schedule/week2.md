@@ -48,15 +48,13 @@ activeDate: "2022-01-30"
 ### In Class
 REVIEWS
 * 1–2 minute speed crit/show and tell. Be prepared to showcase your website/collection, and highlight one unconventional HTML tag you used. Presenter picks next person.
+  * When you present, paste the link to your site into the Zoom chat.
 
 LECTURE
 * A brief history of the internet
 
 TECHNICAL
 * Github Review
-* [Markdown?](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* Exercise: Git workflows
-  * Add your slack avator to [People page](/people) and link to your github page by making a Pull Request. More instructions [here](https://github.com/eli8527/ci22/).
 * CSS selectors, properties, naming
 * CSS pseudoselectors
 * Chrome inspector

@@ -50,15 +50,19 @@ REVIEWS
 * 1–2 minute speed crit/show and tell. Be prepared to showcase your website/collection, and highlight one unconventional HTML tag you used. Presenter picks next person.
   * When you present, paste the link to your site into the Zoom chat.
 
+[DECK](https://docs.google.com/presentation/d/1wYhebYmnDM2rtxt4CDQ27D4gLzyefPhGKUeUeBFfyPo/edit?usp=sharing)
+[RECORDING](https://NewSchool.zoom.us/rec/share/2KAu2Si0jv7WI7KK7PfXgHTSsm5Of0OEjJXxT2cMP2sQrtNq3Lz32jmFs7zUucsE.cKYZgI718EeTwlwz)
+[SQUARE](https://github.com/eli8527/CI22-portfolio/blob/main/square.html)
 LECTURE
 * A brief history of the internet
 
 TECHNICAL
 * Github Review
-* CSS selectors, properties, naming
-* CSS pseudoselectors
+* [CSS selectors, properties, naming](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [CSS pseudoselectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 * Chrome inspector
 * HTML and CSS
+* [Ultimate guide to CSS](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
 
 ### After Class
 READ

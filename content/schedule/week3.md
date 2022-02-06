@@ -40,10 +40,9 @@ Write your comments/questions in the [Unit 2 Reading] document(https://docs.goog
 ### In Class
 * Discuss lectures + readings
 * Introduce Project 2: [Stories as Networks](https://docs.google.com/document/d/14X4xLXwyJlXFSaHCkOabOrcNO-H8mM-qkRk9XgbyQqg/edit?usp=sharing)
-* Exercise: [Type & Interaction Study](https://docs.google.com/document/d/1u2SAfwLsd0kUiTDp0edqR9GEEwEndWk78mF9BYx8hCU/edit?usp=sharing) in pairs
 
 ### After Class
-P2: PART 1
+P2: Part 2
  
 READ
 * Frank Chimero

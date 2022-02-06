@@ -26,23 +26,26 @@ activeDate: "2022-02-06"
 READ
 * Loretta Staples
 * American Artist
-* Frank Chimero
 
 WATCH
 * Digital Typography and Language in User Interfaces
 * Bias within Design Systems
 
+Write your comments/questions in the [Unit 2 Reading] document(https://docs.google.com/document/d/1iaMH5_ZYew54fBA8P0vLuBUZYWLafQen8HoIM0A1VuY/edit?usp=sharing)
 
 ---
 
 ## {{< dateFormat "2022-02-10" >}} Studio
 
 ### In Class
-* [Discuss](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit?usp=sharing) lectures + readings
+* Discuss lectures + readings
 * Introduce Project 2: [Stories as Networks](https://docs.google.com/document/d/14X4xLXwyJlXFSaHCkOabOrcNO-H8mM-qkRk9XgbyQqg/edit?usp=sharing)
 * Exercise: [Type & Interaction Study](https://docs.google.com/document/d/1u2SAfwLsd0kUiTDp0edqR9GEEwEndWk78mF9BYx8hCU/edit?usp=sharing) in pairs
 
 ### After Class
+READ
+* Frank Chimero
+
 * P2: PART 1
 
 ---

@@ -31,7 +31,7 @@ WATCH
 * Digital Typography and Language in User Interfaces
 * Bias within Design Systems
 
-Write your comments/questions in the [Unit 2 Reading] document(https://docs.google.com/document/d/1iaMH5_ZYew54fBA8P0vLuBUZYWLafQen8HoIM0A1VuY/edit?usp=sharing)
+Write your comments/questions in the [Unit 2 Reading document](https://docs.google.com/document/d/1iaMH5_ZYew54fBA8P0vLuBUZYWLafQen8HoIM0A1VuY/edit?usp=sharing)
 
 ---
 

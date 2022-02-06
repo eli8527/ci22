@@ -4,7 +4,11 @@ menu:
   main:
     weight: 30
 ---
-Thoughts and responses relating to studio readings are expected be collected in [discussion questions / comments](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit).
+Thoughts and responses relating to studio readings are expected be collected here
+* Unit 1 [discussion questions / comments](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit)
+* Unit 2 [discussion questions / comments](https://docs.google.com/document/d/1iaMH5_ZYew54fBA8P0vLuBUZYWLafQen8HoIM0A1VuY/edit)
+* Unit 3
+* Unit 4
 <br/>
 
 - [Reading leaders signup sheet](https://docs.google.com/document/d/1rixPKi2pmKr-eSfHzbp6NFr8zVOIDYezl-GbPGsvyNk/edit)

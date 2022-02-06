@@ -27,6 +27,7 @@ activeDate: "2022-02-06"
 READ
 * Loretta Staples
 * American Artist
+* Frank Chimero
 
 WATCH
 * Digital Typography and Language in User Interfaces
@@ -44,9 +45,6 @@ Write your comments/questions in the [Unit 2 Reading document](https://docs.goog
 
 ### After Class
 P2: Part 2
- 
-READ
-* Frank Chimero
 
 
 ---

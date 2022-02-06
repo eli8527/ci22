@@ -43,10 +43,10 @@ Write your comments/questions in the [Unit 2 Reading] document(https://docs.goog
 * Exercise: [Type & Interaction Study](https://docs.google.com/document/d/1u2SAfwLsd0kUiTDp0edqR9GEEwEndWk78mF9BYx8hCU/edit?usp=sharing) in pairs
 
 ### After Class
+* P2: PART 1
 READ
 * Frank Chimero
 
-* P2: PART 1
 
 ---
 

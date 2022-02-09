@@ -21,6 +21,7 @@ STUDENTS
 - Gianna Waldron ([gh](https://github.com/giannawaldron))
 - [Shiyao Wu](https://shiyaowu983.github.io/CI22-Portfolio/) ([gh](https://github.com/ShiyaoWu983/CI22-Portfolio))
 - [Wu Tong](https://wutongwutong00.github.io/) ([gh](https://github.com/wutongwutong00))
+- Hallie Young
 
 INSTRUCTORS
 - [Sophie Auger](https://www.sophieauger.com/)

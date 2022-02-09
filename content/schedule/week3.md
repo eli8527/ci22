@@ -41,6 +41,7 @@ Write your comments/questions in the [Unit 2 Reading document](https://docs.goog
 
 ### In Class
 * Discuss lectures + readings
+* [Today's notes](https://docs.google.com/document/d/17It7FEw2AgOOKfwwnhH0N5x4BfyChO5GIfsI-cWSA-I/edit#heading=h.clfsowo1a26t)
 * Introduce Project 2: [Stories as Networks](https://docs.google.com/document/d/14X4xLXwyJlXFSaHCkOabOrcNO-H8mM-qkRk9XgbyQqg/edit?usp=sharing)
 * Project 2: Part 1 
 

@@ -30,8 +30,8 @@ READ
 * Frank Chimero
 
 WATCH
-* Digital Typography and Language in User Interfaces
-* Bias within Design Systems
+* [Digital Typography and Language in User Interfaces](https://vimeo.com/showcase/8025633/video/507335385)
+* [Bias within Design Systems](https://vimeo.com/showcase/8025633/video/507303673)
 
 Write your comments/questions in the [Unit 2 Reading document](https://docs.google.com/document/d/1iaMH5_ZYew54fBA8P0vLuBUZYWLafQen8HoIM0A1VuY/edit?usp=sharing)
 

@@ -45,7 +45,8 @@ Write your comments/questions in the [Unit 2 Reading document](https://docs.goog
 * Introduce Project 2: [Stories as Networks](https://docs.google.com/document/d/14X4xLXwyJlXFSaHCkOabOrcNO-H8mM-qkRk9XgbyQqg/edit?usp=sharing)
 
 ### After Class
-P2: Part 1
+* P2: Part 1
+* Everyone give feedback to Ines and Anthony about P1 on Slack
 
 
 ---

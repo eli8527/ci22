@@ -37,6 +37,7 @@ Studio Readings
 
 Lab Readings
 * Lazlo Moholy-Nagy, [The New Typography](https://t-y-p-o-g-r-a-p-h-y.org/media/pdf/The-New-Typography.pdf), 1923
+* David Reinfurt, [This stands as a sketch for the future](https://designopendata.files.wordpress.com/2014/06/thisstandsasasketchforthefuture.pdf), 2007
 * Dexter Sinister, [Letter and Spirit](https://www.servinglibrary.org/journal/3/letter-and-spirit), 2012
 * Bruno Munari, [Design as Art](https://www.are.na/block/1224310), 1966
 * Bruno Munari, [Drawing a Tree](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/2/41305/files/2017/01/Munari-drawing-a-tree-2eyl8fo.pdf), 1978 

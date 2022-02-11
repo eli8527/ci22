@@ -67,6 +67,7 @@ TECHNICAL
 ### After Class
 READ
 Laszlo Moholy-Nagy
+David Reinfurt
 
 HW
 A3: It’s all about type

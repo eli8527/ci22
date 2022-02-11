@@ -34,12 +34,12 @@ Using CSS and HTML, create your own digital garden. There should be at least 4 d
 
 By beginning of next class, upload this page to GitHub Pages and link to it from your homepage.
 
----
-The assignments below are subject to adjustment.
-
-
 A3: It’s all about type
 Switch collections of text from A1 with a partner. Using the text as content, design and layout a web page to house that collection of text. Use what we’ve learned so far about HTML elements and CSS. This design should be responsive and offer different design interactions depending on desktop/mobile/print.
+
+
+---
+The assignments below are subject to adjustment.
 
 A4: Garden of forking paths
 Using the original elements of your garden, introduce animation and behavior. Feel free to incorporate some JS if you want to.

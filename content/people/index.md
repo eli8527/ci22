@@ -18,7 +18,7 @@ STUDENTS
 - [Jiyeong Shin](https://jjiyeongs.github.io/Core2_Interaction/) ([gh](https://github.com/jjiyeongs/Core2_Interaction))
 - Hannah Suh ([gh](https://github.com/hsuh21))
 - Sophie Tsang
-- Gianna Waldron ([gh](https://github.com/giannawaldron))
+- [Gianna Waldron](https://giannawaldron.github.io/homepage/) ([gh](https://github.com/giannawaldron))
 - [Shiyao Wu](https://shiyaowu983.github.io/CI22-Portfolio/) ([gh](https://github.com/ShiyaoWu983/CI22-Portfolio))
 - [Wu Tong](https://wutongwutong00.github.io/) ([gh](https://github.com/wutongwutong00))
 - Hallie Young

@@ -55,13 +55,12 @@ Write your comments/questions in the [Unit 2 Reading document](https://docs.goog
 
 ### In Class
 LECTURE
-* Put that there
+* Put that there ([Deck](https://docs.google.com/presentation/d/1W1FIjZ458lZn1Tdh1aDew09mHMWRTBtBJudEADZOmZk/edit?usp=sharing), [Recording](https://NewSchool.zoom.us/rec/share/hZUsD2sIvOW69mIyi5IEVNgN7BOLOjWRt8Yw6quYXhFdEwk8sXduW-mYG3vh4Ta3.IUC1MqVdgCid9ROh))
 
 TECHNICAL
-* Responsive web and media queries
-* Holy grail layout
-* Flexbox and Grid
-* Typography on the web
+* Responsive web and [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* Typography on the web, [Transfonter](https://transfonter.org/), [Google Fonts](https://fonts.google.com/)
 
 
 ### After Class
@@ -70,4 +69,4 @@ Laszlo Moholy-Nagy
 David Reinfurt
 
 HW
-A3: It’s all about type
+A3: It’s all about type, due in 2 weeks

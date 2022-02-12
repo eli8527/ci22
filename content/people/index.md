@@ -7,7 +7,7 @@ menu:
 
 STUDENTS
 - [Anna Blyumenkrants](https://annablum.github.io/Core-Interaction/) ([gh](https://github.com/annablum))
-- Hugo Chao ([gh](https://github.com/hugochao/Portfolio-studio-lab))
+- [Hugo Chao](https://hugochao.github.io/Portfolio-studio-lab/) ([gh](https://github.com/hugochao/Portfolio-studio-lab))
 - [Gayoung Do](https://gayoung0427.github.io/ci22-portfolio/) ([gh](https://github.com/gayoung0427))
 - [Themis Kung](https://kungn103.github.io/ci2/) ([gh](https://github.com/kungn103))
 - [Haylee Lee](https://hayleelee.github.io/C122-portfolio/) ([gh](https://github.com/hayleelee))
@@ -20,8 +20,8 @@ STUDENTS
 - Sophie Tsang
 - [Gianna Waldron](https://giannawaldron.github.io/homepage/) ([gh](https://github.com/giannawaldron))
 - [Shiyao Wu](https://shiyaowu983.github.io/CI22-Portfolio/) ([gh](https://github.com/ShiyaoWu983/CI22-Portfolio))
-- [Wu Tong](https://wutongwutong00.github.io/) ([gh](https://github.com/wutongwutong00))
-- Hallie Young
+- [Wu Tong](https://wutongwutong00.github.io/c2interaction/) ([gh](https://github.com/wutongwutong00/c2interaction))
+- [Hallie Young](https://hallie214.github.io/CI22/) ([gh](https://github.com/hallie214/CI22/))
 
 INSTRUCTORS
 - [Sophie Auger](https://www.sophieauger.com/)

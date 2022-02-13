@@ -13,7 +13,7 @@ STUDENTS
 - [Haylee Lee](https://hayleelee.github.io/C122-portfolio/) ([gh](https://github.com/hayleelee))
 - Talita Ozkok
 - [Ines Andrea Penaud](https://inespenaud.github.io/Core-Interaction-2/) ([gh](https://github.com/inespenaud))
-- Kiara Putrilia
+- [Kiara Putrilia](https://kiaraputrilia.github.io/Core-2-Studio/) ([gh](https://github.com/kiaraputrilia/Core-2-Studio))
 - Anthony Rangel Apreza ([gh](https://github.com/AnthonyRangel19/CI22-portfolio))
 - [Jiyeong Shin](https://jjiyeongs.github.io/Core2_Interaction/) ([gh](https://github.com/jjiyeongs/Core2_Interaction))
 - Hannah Suh ([gh](https://github.com/hsuh21))

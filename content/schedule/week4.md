@@ -17,16 +17,17 @@ activeDate: "2022-02-13"
 
 ### In Class
 * Small group critique: review ideas
-* Exercise: [Type & Interaction Study](https://docs.google.com/document/d/1u2SAfwLsd0kUiTDp0edqR9GEEwEndWk78mF9BYx8hCU/edit?usp=sharing) in pairs
+* [Today's notes](https://docs.google.com/document/d/1WX_H7n8PQ8m0YLaFFKKaGzU9mTd-pZSDN2g-_Zl-bQU/edit?usp=sharing)
+* Ambient work time: P2: Part 2
 
 ### After Class
-* P2: Part 2
+* Complete P2: Part 2
 ---
 
 ## {{< dateFormat "2022-02-17" >}} Studio
 
 ### In Class
-* Review P2: Part 3 + references
+* Review P2: Part 2 + references
 * In pairs review P2: Part 2, help each other decide on a design direction
 * 1:2s with instructor
 

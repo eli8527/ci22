@@ -16,8 +16,8 @@ STUDENTS
 - [Kiara Putrilia](https://kiaraputrilia.github.io/Core-2-Studio/) ([gh](https://github.com/kiaraputrilia/Core-2-Studio))
 - Anthony Rangel Apreza ([gh](https://github.com/AnthonyRangel19/CI22-portfolio))
 - [Jiyeong Shin](https://jjiyeongs.github.io/Core2_Interaction/) ([gh](https://github.com/jjiyeongs/Core2_Interaction))
-- Hannah Suh ([gh](https://github.com/hsuh21))
-- Sophie Tsang
+- [Hannah Suh](https://hsuh21.github.io/CI22Portfolio/) ([gh](https://github.com/hsuh21))
+- [Sophie Tsang](https://sophsang.github.io/CI22/) ([gh](https://github.com/Sophsang/CI22))
 - [Gianna Waldron](https://giannawaldron.github.io/homepage/) ([gh](https://github.com/giannawaldron))
 - [Shiyao Wu](https://shiyaowu983.github.io/CI22-Portfolio/) ([gh](https://github.com/ShiyaoWu983/CI22-Portfolio))
 - [Wu Tong](https://wutongwutong00.github.io/c2interaction/) ([gh](https://github.com/wutongwutong00/c2interaction))

@@ -17,7 +17,7 @@ All work is expected to be hosted on Github Pages. You are expected to create an
 * [Slack Avatar](https://docs.google.com/document/d/1J1SP_pRU17cEQI60vDPMoGeL4UbwelnhjSXvaK6A6ak/preview)
 * [Screen Time](https://docs.google.com/document/d/1BtpLHkVY5a9SusP2ECAt6sl-84yKz5pziPSQG_AE7I8/preview)
 * [Screenshot Portrait](https://docs.google.com/document/d/1Xgqcqxs-o0mJdu3Lnui83RMN6HmO20ylitIeOowYpko/edit)
-* [Handmade Code](https://docs.google.com/document/d/1e-8xGU3uq5ElbgopHLttuXODGCJLnl-tNtDU5tW-vzw/edit)
+* [Handmade Code](https://docs.google.com/document/d/1RybRPK22C1lxP4B_iGhO4efmipiM8B5CybYbxuU3nFM/preview?usp=sharing)
 * [Interaction & Type Study](https://docs.google.com/document/d/1-ZQtxh6rYOncGZm0d3zOAaAJe5G2IgjTBwBxGE8VUvg/edit?usp=sharing)
 * [Hover States](https://docs.google.com/document/d/1Ep9NJTQ0VU8xK9I-x-2d1X5bocvVFUCYCNbnLFoWZSQ/edit)
 * [Flexbox](https://docs.google.com/document/d/1eTMgPtn_ovhFctUEI2eV5CjnxRH1l0rd9g21fnggo5A/edit#)

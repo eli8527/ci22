@@ -28,6 +28,7 @@ GETTING SETUP
 
 
 COLLECTIVE COURSE DEMOS
+* [Figma Tips](https://docs.google.com/document/d/1Pb0uXcvocj2oYG83MCy0Eu3PDIig3x7yrjQ3U6RL0f8/edit)
 * [Typography on the Web](https://docs.google.com/presentation/d/1Hq5XgpLF_mCf3ytKoHIK0qnt5UyRvv9eWupM4sys3og/edit#slide=id.p), Janine Rosen
 * [Web Font Resources](https://docs.google.com/document/d/1f_QNA0dtrEmxDORr6UZDvIly_IiXefvR0PVakPW_H70/edit), Lynn Kiang
 * [Responsive Web](https://docs.google.com/presentation/d/17o9vlMFXnE0DdZMis7HrB1CSqIk_zKZ4qY-1zP98dFI/edit#slide=id.gba1db405e2_0_0), Dana Kim

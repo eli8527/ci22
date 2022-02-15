@@ -16,12 +16,14 @@ activeDate: "2022-02-13"
 ## {{< dateFormat "2022-02-15" >}} Studio
 
 ### In Class
-* Small group critique: review ideas
 * [Today's notes](https://docs.google.com/document/d/1WX_H7n8PQ8m0YLaFFKKaGzU9mTd-pZSDN2g-_Zl-bQU/edit?usp=sharing)
+* Small group critique: review ideas
 * Ambient work time: P2: Part 2
+* 1:1s with instructor
 
 ### After Class
 * Complete P2: Part 2
+* Make sure your Github is linked to the class website and that **all** your links are working.
 ---
 
 ## {{< dateFormat "2022-02-17" >}} Studio

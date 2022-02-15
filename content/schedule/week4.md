@@ -31,7 +31,7 @@ activeDate: "2022-02-13"
 ### In Class
 * [Today's notes](https://docs.google.com/document/d/1RUEga5VjrnbsnoPX2nNTD7GtjP9i_4oKwWf5e4CKCYA/edit?usp=sharing)
 * Review P2: Part 2 + references
-* Ambient work time + 1:2s with instructor
+* Lectures: [Responsive Web](https://docs.google.com/presentation/d/17o9vlMFXnE0DdZMis7HrB1CSqIk_zKZ4qY-1zP98dFI/edit#slide=id.p) + [Typography on the Web] (newschool email address access)(https://docs.google.com/presentation/d/1Hq5XgpLF_mCf3ytKoHIK0qnt5UyRvv9eWupM4sys3og/edit#slide=id.gae454ddbdd_0_78)
 
 ### After Class
 * P2: Part 3

@@ -18,8 +18,8 @@ activeDate: "2022-02-13"
 ### In Class
 * [Today's notes](https://docs.google.com/document/d/1WX_H7n8PQ8m0YLaFFKKaGzU9mTd-pZSDN2g-_Zl-bQU/edit?usp=sharing)
 * Small group critique: review ideas
+* [Exercise: HANDMADE CODE](https://docs.google.com/document/d/1RybRPK22C1lxP4B_iGhO4efmipiM8B5CybYbxuU3nFM/preview)
 * Ambient work time: P2: Part 2
-* 1:1s with instructor
 
 ### After Class
 * Complete P2: Part 2

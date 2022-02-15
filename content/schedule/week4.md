@@ -29,9 +29,9 @@ activeDate: "2022-02-13"
 ## {{< dateFormat "2022-02-17" >}} Studio
 
 ### In Class
+* [Today's notes](https://docs.google.com/document/d/1RUEga5VjrnbsnoPX2nNTD7GtjP9i_4oKwWf5e4CKCYA/edit?usp=sharing)
 * Review P2: Part 2 + references
-* In pairs review P2: Part 2, help each other decide on a design direction
-* 1:2s with instructor
+* Ambient work time + 1:2s with instructor
 
 ### After Class
 * P2: Part 3

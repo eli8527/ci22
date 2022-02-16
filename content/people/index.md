@@ -11,10 +11,10 @@ STUDENTS
 - [Gayoung Do](https://gayoung0427.github.io/ci22-portfolio/) ([gh](https://github.com/gayoung0427))
 - [Themis Kung](https://kungn103.github.io/ci2/) ([gh](https://github.com/kungn103))
 - [Haylee Lee](https://hayleelee.github.io/C122-portfolio/) ([gh](https://github.com/hayleelee))
-- Talita Ozkok
+- [Talita Ozkok](https://ozkot134.github.io/ci22-portfolio/) ([gh](https://github.com/ozkot134/ci22-portfolio))
 - [Ines Andrea Penaud](https://inespenaud.github.io/Core-Interaction-2/) ([gh](https://github.com/inespenaud))
 - [Kiara Putrilia](https://kiaraputrilia.github.io/Core-2-Studio/) ([gh](https://github.com/kiaraputrilia/Core-2-Studio))
-- Anthony Rangel Apreza ([gh](https://github.com/AnthonyRangel19/CI22-portfolio))
+- [Anthony Rangel Apreza](https://anthonyrangel19.github.io/CI22-portfolio/) ([gh](https://github.com/AnthonyRangel19/CI22-portfolio))
 - [Jiyeong Shin](https://jjiyeongs.github.io/Core2_Interaction/) ([gh](https://github.com/jjiyeongs/Core2_Interaction))
 - [Hannah Suh](https://hsuh21.github.io/CI22Portfolio/) ([gh](https://github.com/hsuh21))
 - [Sophie Tsang](https://sophsang.github.io/CI22/) ([gh](https://github.com/Sophsang/CI22))

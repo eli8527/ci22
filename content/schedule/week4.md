@@ -43,7 +43,7 @@ activeDate: "2022-02-13"
 
 ### In Class
 Lecture
-* METAFONT
+* METAFONT [[SLIDES](https://docs.google.com/presentation/d/1dBhUBFqBk6fXJVFI1mJ-rgrXRKio1WUuWxGS1pfXAXc/edit?usp=sharing), [VIDEO](https://NewSchool.zoom.us/rec/share/yWLtqp_YebLLdcaGr8T-MSU25tGIcHUTFika6D_bt94EL0ZzFQWXML5Li74wnxmY.zIOujdjyP_2DvmVe)]
 
 Technical
 * Refresher of flexbox/grid

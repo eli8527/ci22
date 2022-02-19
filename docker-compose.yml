@@ -10,3 +10,8 @@ services:
       - "1313:1313"
     environment:
       VIRTUAL_HOST: ci22.local
+      VIRTUAL_PORT: 80
+networks:
+  default:
+    external:
+      name: nginx-proxy

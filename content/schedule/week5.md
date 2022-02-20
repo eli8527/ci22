@@ -16,16 +16,26 @@ activeDate: "2022-02-20"
 ## {{< dateFormat "2022-02-22" >}} Studio
 
 ### In Class
+* [Today's Notes](https://docs.google.com/document/d/1bW221mnPbkc-SfrhBFWgwi2_BSFB7T8ejLd4NQ0uY14/preview)
+* Exercise: Typographic Explorations
+* Small Group reviews + ambient work time
 
 ### After Class
+* P2: Part 4
 
 ---
 
 ## {{< dateFormat "2022-02-24" >}} Studio
 
 ### In Class
+* Today's Notes
+* Discuss SVGs and CSS animations
+* Exercise: CSS Animations
+* 1:1s
 
 ### After Class
+* P2: Part 5
+* Complete Exercise: CSS Animations and add to your Github 
 
 ---
 

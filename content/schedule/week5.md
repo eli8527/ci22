@@ -28,7 +28,7 @@ activeDate: "2022-02-20"
 ## {{< dateFormat "2022-02-24" >}} Studio
 
 ### In Class
-* Today's Notes
+* [Today's Notes](https://docs.google.com/document/d/14oR2UxhfI9Iy98eUVkxx2Mvxr-f2eNiUuewd14hGdzE/preview)
 * Discuss SVGs and CSS animations
 * Exercise: CSS Animations
 * 1:1s

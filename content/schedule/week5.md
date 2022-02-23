@@ -29,9 +29,8 @@ activeDate: "2022-02-20"
 
 ### In Class
 * [Today's Notes](https://docs.google.com/document/d/14oR2UxhfI9Iy98eUVkxx2Mvxr-f2eNiUuewd14hGdzE/preview)
-* Discuss SVGs and CSS animations
-* Exercise: CSS Animations
-* 1:1s
+* Exercise: Hover States
+* Ambient Work time + optional 1:1s
 
 ### After Class
 * P2: Part 5

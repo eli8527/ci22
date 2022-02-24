@@ -34,7 +34,7 @@ activeDate: "2022-02-20"
 
 ### After Class
 * P2: Part 5
-* Complete Exercise: CSS Animations and add to your Github 
+* Complete Exercise: Hover States and add to your Github 
 
 ---
 

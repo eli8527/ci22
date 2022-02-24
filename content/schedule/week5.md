@@ -29,7 +29,7 @@ activeDate: "2022-02-20"
 
 ### In Class
 * [Today's Notes](https://docs.google.com/document/d/14oR2UxhfI9Iy98eUVkxx2Mvxr-f2eNiUuewd14hGdzE/preview)
-* Exercise: Hover States
+* [Exercise: Hover States](https://docs.google.com/document/d/1Xbz5vEnHkFYnHv-SOjgH5EyD67vIOgBgpJlbF1gm8Zg/edit)
 * Ambient Work time + optional 1:1s
 
 ### After Class

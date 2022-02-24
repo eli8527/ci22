@@ -19,7 +19,7 @@ All work is expected to be hosted on Github Pages. You are expected to create an
 * [Screenshot Portrait](https://docs.google.com/document/d/1Xgqcqxs-o0mJdu3Lnui83RMN6HmO20ylitIeOowYpko/edit)
 * [Handmade Code](https://docs.google.com/document/d/1RybRPK22C1lxP4B_iGhO4efmipiM8B5CybYbxuU3nFM/preview?usp=sharing)
 * [Interaction & Type Study](https://docs.google.com/document/d/1-ZQtxh6rYOncGZm0d3zOAaAJe5G2IgjTBwBxGE8VUvg/edit?usp=sharing)
-* [Hover States](https://docs.google.com/document/d/1Ep9NJTQ0VU8xK9I-x-2d1X5bocvVFUCYCNbnLFoWZSQ/edit)
+* [Hover States](https://docs.google.com/document/d/1Xbz5vEnHkFYnHv-SOjgH5EyD67vIOgBgpJlbF1gm8Zg/edit)
 * [Flexbox](https://docs.google.com/document/d/1eTMgPtn_ovhFctUEI2eV5CjnxRH1l0rd9g21fnggo5A/edit#)
 * [Filter](https://docs.google.com/document/d/1oDEZw7fuZr7XUgPSTTeJABUJXzxMzUcHgbMRutXlTGY/edit)
 

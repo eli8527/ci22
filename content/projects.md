@@ -37,12 +37,11 @@ By beginning of next class, upload this page to GitHub Pages and link to it from
 A3: It’s all about type
 Switch collections of text from A1 with a partner. Using the text as content, design and layout a web page to house that collection of text. Use what we’ve learned so far about HTML elements and CSS. This design should be responsive and offer different design interactions depending on desktop/mobile/print.
 
+A4: Garden of forking paths
+Revisiting your garden from A2, change it up, spruce it up, etc. by introducing animation and other behavior. You should incorporate at least one behavior based on a click event in JavaScript. Due in 2 weeks.
 
 ---
 The assignments below are subject to adjustment.
-
-A4: Garden of forking paths
-Using the original elements of your garden, introduce animation and behavior. Feel free to incorporate some JS if you want to.
 
 A5: Farewell, World
 Create the last page of the internet. Using Javascript interactions, the page should dynamically unfold and tell the story, rise, fall, and collapse of the internet. This can be done visually, textually, or conceptually. It should be able to communicate some story to whoever may see it.

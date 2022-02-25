@@ -41,5 +41,17 @@ activeDate: "2022-02-20"
 ## {{< dateFormat "2022-02-25" >}} Lab
 
 ### In Class
+LECTURE
+Bruno Munari
+
+TECHNICAL
+* CSS Variables
+* Transitions and animations
+* Scalable Vector Graphics
 
 ### After Class
+READ
+Bruno Munari
+
+HW
+A3: It’s all about type, due in 2 weeks

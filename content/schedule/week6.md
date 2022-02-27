@@ -17,7 +17,12 @@ activeDate: "2022-02-27"
 
 ### In Class
 
+* [Today's Notes](https://docs.google.com/document/d/1uUPjsSlUJ0kuM7WPee5jIm0vkB4Uko6LRffUorGIL5E/preview)
+* Part 5 pair reviews + 1:2s check-ins
+
+
 ### After Class
+* P2, Part 6
 
 ---
 

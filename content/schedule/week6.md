@@ -22,7 +22,9 @@ activeDate: "2022-02-27"
 
 
 ### After Class
-* P2, Part 6
+* P2, Part 6 
+* Check out [this event (today, 6:30pm)](https://www.eventbrite.com/e/student-design-portfolio-cheat-sheet-tickets-271192462957)
+* And [this podcast (maybe listen while coding...)](https://html.energy/podcast.html)
 
 ---
 

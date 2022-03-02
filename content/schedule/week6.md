@@ -32,10 +32,10 @@ activeDate: "2022-02-27"
 
 ### In Class
 * [Today's Notes](https://docs.google.com/document/d/1IzaB2hu83RmOaRgvQKsREDrx4AxYqUtVb2m5l7O7bz4/preview)
-* Part 5 reviews + Small Group check-ins
+* Part 6 reviews + Small Group check-ins
 
 ### After Class
-
+* Project 2, Part 7 (complete project)
 ---
 
 ## {{< dateFormat "2022-03-04" >}} Lab

@@ -31,6 +31,8 @@ activeDate: "2022-02-27"
 ## {{< dateFormat "2022-03-03" >}} Studio
 
 ### In Class
+* [Today's Notes](https://docs.google.com/document/d/1IzaB2hu83RmOaRgvQKsREDrx4AxYqUtVb2m5l7O7bz4/preview)
+* Part 5 reviews + Small Group check-ins
 
 ### After Class
 

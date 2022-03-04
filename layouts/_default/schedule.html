@@ -21,7 +21,7 @@
           {{- with .Unit}}
             <div class="schedule__unit">{{.}}</div>
           {{end -}}
-          <a class="schedule__week__link" {{with .ActiveDate}}{{if gt time.Now (time .) }}href="{{$page.URL}}"{{end}}{{end}}>
+          <a class="schedule__week__link" {{with .ActiveDate}}{{if gt time.Now (time .) }}href="{{$page.RelPermalink}}"{{end}}{{end}}>
             <div class="schedule__week center">{{.Week}}</div>
             <div class="schedule__overview">{{.Overview | markdownify}}</div>
             <div class="schedule__days">

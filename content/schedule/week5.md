@@ -42,7 +42,7 @@ activeDate: "2022-02-20"
 
 ### In Class
 LECTURE
-Bruno Munari
+Bruno Munari, [Deck](https://docs.google.com/presentation/d/1Tc0Y3q98sicMwVOdR8aaBTi7QKRLH_ARHBN3rOb4D2s/edit?usp=sharing), [Recording](https://NewSchool.zoom.us/rec/share/6WwoMlMkHjj-hnb5JIhf2QrNK1Bb9yj7rXwm7_vxP63_M3wI4pbgmsPT_HeI2lHM.Z6xL-EXN5peB9LVy)
 
 TECHNICAL
 * CSS Variables
@@ -54,4 +54,4 @@ READ
 Bruno Munari
 
 HW
-A3: It’s all about type, due in 2 weeks
+A4: Garden of forking paths, due in 2 weeks

@@ -41,5 +41,8 @@ activeDate: "2022-02-27"
 ## {{< dateFormat "2022-03-04" >}} Lab
 
 ### In Class
+TECHNICAL
+Javascript
 
 ### After Class
+Continue A4

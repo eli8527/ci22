@@ -42,7 +42,12 @@ activeDate: "2022-02-27"
 
 ### In Class
 TECHNICAL
-Javascript
+Javascript, [Recording](https://NewSchool.zoom.us/rec/share/AvuL_R2qioW2ndwGQZPyP20XdgveEknBS-bN57EW962_Y0MkMNPrHvp_lsD6CC8A.5nGeA4MFhdE84bkM), [Slides](https://docs.google.com/presentation/d/1LJlR22Hu84weKh7575J_HKbnAwEenYrembzNKxVNC2U/edit?usp=sharing)
 
 ### After Class
-Continue A4
+READ
+Douglas Engelbart
+Malcolm Gladwell
+
+CONTINUE
+A4, due next week

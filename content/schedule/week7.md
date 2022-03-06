@@ -31,7 +31,11 @@ activeDate: "2022-03-06"
 ## {{< dateFormat "2022-03-10" >}} Studio
 
 ### In Class
-* 
+* [Today's notes](https://docs.google.com/document/d/1X7WxIUrZ9_1uSmAwjYtR8yRdw8QRJNyEG6aq0enri1M/edit#)
+* Reading discussion: Hear from Themis about Sharing as Survival and Dyanmic Use of Data.
+* Stories as Networks regroup
+* Introduce Elastic Collections
+* Look at examples of archives and collections
 
 ### After Class
 * Read [Chapter 2 from Data Feminism](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef) and [write one discussion comment/question]. Gianna will be our discussion leader

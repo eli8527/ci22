@@ -40,7 +40,7 @@ activeDate: "2022-03-06"
 ### After Class
 * Read [Chapter 2 from Data Feminism](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef) and [write one discussion comment/question]. Gianna will be our discussion leader
 * Watch [Balancing Privacy With Data Sharing for the Public Good](https://vimeo.com/showcase/8025633/video/518426783)
-* Come in with three different ideas for the contents of your elastic collection. The content can be any type of media – photos, videos, animations, audio. For each idea, include a a written description of the contents, highlight your interest in it, three possible stories one could develop from this collection (does it connect to any broader discussions in visual culture, design, or beyond?), as well as an example of the visual component of the object. This can be done in Figma, in Google Slides, or a PDF.
+* Project 3: Part 1
 
 ---
 

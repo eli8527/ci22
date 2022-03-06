@@ -22,7 +22,7 @@ activeDate: "2022-03-06"
 * Critique: Stories as Networks
 
 ### After Class
-* Review Stories as Networks projects from both groups and identify a couple that stood out to you.
+* Review Stories as Networks projects and identify a couple that stood out to you.
 * Watch [Dynamic Use of Data](https://vimeo.com/showcase/8025633/video/518366983)
 * Read [Sharing as Survival: Mindy Seu on the Cyberfeminism Index](https://walkerart.org/magazine/sharing-as-survival-mindy-seu-cyberfeminism-index) and [write one discussion comment/discussion](https://docs.google.com/document/d/1MbagYbj95h-gXEFXO7WvLw0KlJpw7-qI-DmJ5fUUuY0/edit?usp=sharing). Themis will be our discussion leader.
 

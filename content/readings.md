@@ -49,8 +49,8 @@ Lab Readings
 ## Unit 3: Interaction with Data
 
 Studio Readings
-* Catherine D'Ignazio and Lauren Klein, [Chapter 2 from Data Feminism](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef), 2020
 * Marie Hoejlund, [Sharing as Survival: Mindy Seu on the Cyberfeminism Index](https://walkerart.org/magazine/sharing-as-survival-mindy-seu-cyberfeminism-index), 2020
+* Catherine D'Ignazio and Lauren Klein, [Chapter 2 from Data Feminism](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef), 2020
 * Joana Moll, [The Hidden Life of an Amazon User](https://branch.climateaction.tech/2020/09/25/the-hidden-life-of-an-amazon-user/)
 
 Lab Readings

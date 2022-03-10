@@ -39,7 +39,7 @@ activeDate: "2022-03-06"
 
 
 ### After Class
-* Read [Chapter 2 from Data Feminism](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef) and [write one discussion comment/question]. Gianna will be our discussion leader
+* Read [Chapter 2 from Data Feminism](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef) and [write one discussion comment/question](https://docs.google.com/document/d/1MbagYbj95h-gXEFXO7WvLw0KlJpw7-qI-DmJ5fUUuY0/edit?usp=sharing). Gianna will be our discussion leader
 * Watch [Balancing Privacy With Data Sharing for the Public Good](https://vimeo.com/showcase/8025633/video/518426783)
 * Project 3: Part 1
 * Complete Exercise: Flexbox Calendar

@@ -35,9 +35,7 @@ activeDate: "2022-03-06"
 * Reading discussion: Hear from Themis about Sharing as Survival and Dynamic Use of Data.
 * [Today's notes](https://docs.google.com/document/d/1X7WxIUrZ9_1uSmAwjYtR8yRdw8QRJNyEG6aq0enri1M/edit#)
 * Introduce Elastic Collections
-* Look at examples of collections
 * Exercise: Flexbox Calendar
-* Listen to one of [HTML Energy poscast](https://html.energy/podcast.html) and be prepared to share  a quick summary and your thoughts with us.
 
 
 ### After Class
@@ -45,6 +43,7 @@ activeDate: "2022-03-06"
 * Watch [Balancing Privacy With Data Sharing for the Public Good](https://vimeo.com/showcase/8025633/video/518426783)
 * Project 3: Part 1
 * Complete Exercise: Flexbox Calendar
+* Listen to one of [HTML Energy poscast](https://html.energy/podcast.html) and be prepared to share a quick summary and your thoughts.
 
 ---
 

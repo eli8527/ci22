@@ -31,17 +31,18 @@ activeDate: "2022-03-06"
 ## {{< dateFormat "2022-03-10" >}} Studio
 
 ### In Class
+* [Mid-semester survey](https://docs.google.com/forms/d/e/1FAIpQLScX7L8LQtBAyCHausBzE3Zdy6HdcwtOgfxU4NuF7LcXBna6Bg/viewform?usp=sf_link)
+* Reading discussion: Hear from Themis about Sharing as Survival and Dynamic Use of Data.
 * [Today's notes](https://docs.google.com/document/d/1X7WxIUrZ9_1uSmAwjYtR8yRdw8QRJNyEG6aq0enri1M/edit#)
-* Reading discussion: Hear from Themis about Sharing as Survival and Dyanmic Use of Data.
-* Stories as Networks regroup
 * Introduce Elastic Collections
 * Look at examples of archives and collections
-* [Mid-semester survey](https://docs.google.com/forms/d/e/1FAIpQLScX7L8LQtBAyCHausBzE3Zdy6HdcwtOgfxU4NuF7LcXBna6Bg/viewform?usp=sf_link)
+* Exercise: Flexbox Calendar
 
 ### After Class
 * Read [Chapter 2 from Data Feminism](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef) and [write one discussion comment/question]. Gianna will be our discussion leader
 * Watch [Balancing Privacy With Data Sharing for the Public Good](https://vimeo.com/showcase/8025633/video/518426783)
 * Project 3: Part 1
+* Complete Exercise: Flexbox Calendar
 
 ---
 

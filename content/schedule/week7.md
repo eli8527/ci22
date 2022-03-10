@@ -35,8 +35,9 @@ activeDate: "2022-03-06"
 * Reading discussion: Hear from Themis about Sharing as Survival and Dynamic Use of Data.
 * [Today's notes](https://docs.google.com/document/d/1X7WxIUrZ9_1uSmAwjYtR8yRdw8QRJNyEG6aq0enri1M/edit#)
 * Introduce Elastic Collections
-* Look at examples of archives and collections
+* Look at examples of collections
 * Exercise: Flexbox Calendar
+
 
 ### After Class
 * Read [Chapter 2 from Data Feminism](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef) and [write one discussion comment/question]. Gianna will be our discussion leader

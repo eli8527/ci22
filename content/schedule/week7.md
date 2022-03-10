@@ -37,6 +37,7 @@ activeDate: "2022-03-06"
 * Introduce Elastic Collections
 * Look at examples of collections
 * Exercise: Flexbox Calendar
+* Listen to one of [HTML Energy poscast](https://html.energy/podcast.html) and be prepared to share  a quick summary and your thoughts with us.
 
 
 ### After Class

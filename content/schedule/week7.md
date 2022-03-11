@@ -50,5 +50,15 @@ activeDate: "2022-03-06"
 ## {{< dateFormat "2022-03-11" >}} Lab
 
 ### In Class
+Review A4
+
+LECTURE
+To a hammer, everything is a nail
+JS review
 
 ### After Class
+READ
+Rob Giampietro
+
+HW
+Farewell, World (Due 4/1)

@@ -40,11 +40,11 @@ Switch collections of text from A1 with a partner. Using the text as content, de
 A4: Garden of forking paths
 Revisiting your garden from A2, change it up, spruce it up, etc. by introducing animation and other behavior. You should incorporate at least one behavior based on a click event in JavaScript. Due in 2 weeks.
 
+A5: Farewell, World
+Create the last page of the internet. Using Javascript interactions, the page should dynamically unfold and tell the story, rise, fall, and collapse of the internet. This can be done visually, textually, or conceptually. It should be able to communicate some story to whoever may see it. Due 4/1.
+
 ---
 The assignments below are subject to adjustment.
-
-A5: Farewell, World
-Create the last page of the internet. Using Javascript interactions, the page should dynamically unfold and tell the story, rise, fall, and collapse of the internet. This can be done visually, textually, or conceptually. It should be able to communicate some story to whoever may see it.
 
 A6: Ambient
 Create an ambient website. It should be able to communicate something about itself when viewed at any given moment in time. It should make use of data provided by a CMS and incorporate everything you’ve learned so far about web programming.

@@ -53,7 +53,7 @@ activeDate: "2022-03-06"
 Review A4
 
 LECTURE
-To a hammer, everything is a nail
+To a hammer, everything is a nail, [DECK](https://docs.google.com/presentation/d/1Viy6oHvNMoTtFcnJie9acnKSfTi_A80W4mGR650ezec/edit?usp=sharing)
 JS review
 
 ### After Class

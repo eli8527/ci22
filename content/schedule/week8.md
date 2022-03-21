@@ -18,6 +18,7 @@ activeDate: "2022-03-20"
 
 ### In Class
 * Hear from Gianna and discuss Data Feminism
+* Review Exercise: Flexbox Calendar
 * Discuss project ideas in small groups
 * Exercise: Things that go beep
 * Project 3: Part 2

@@ -20,6 +20,7 @@ All work is expected to be hosted on Github Pages. You are expected to create an
 * [Interaction & Type Study](https://docs.google.com/document/d/1-ZQtxh6rYOncGZm0d3zOAaAJe5G2IgjTBwBxGE8VUvg/edit?usp=sharing)
 * [Hover States](https://docs.google.com/document/d/1Xbz5vEnHkFYnHv-SOjgH5EyD67vIOgBgpJlbF1gm8Zg/edit)
 * [Flexbox](https://docs.google.com/document/d/1mj8aeijpgBo__wyV3sVBlaD5a8BHwNVlrfFJZW970Uw/edit?usp=sharing)
+* [Things that go beep](https://docs.google.com/document/d/1eAQx72Hk7VkALL5R8CRetT1opeh8M1IMAM5zNcWXP6Y/edit)
 * [Favicon](https://docs.google.com/document/d/1FTRn_yaGa2XnoD6VzaAr43o5bVe2yZf_Q5vpOGMZ4_w/edit?usp=sharing)
 * [Filter](https://docs.google.com/document/d/1oDEZw7fuZr7XUgPSTTeJABUJXzxMzUcHgbMRutXlTGY/edit)
 

@@ -12,20 +12,27 @@ days:
 activeDate: "2022-03-20"
 ---
 # WEEK 8
-
 ---
 
 ## {{< dateFormat "2022-03-22" >}} Studio
 
 ### In Class
+* Hear from Gianna and discuss Data Feminism
+* Discuss project ideas in small groups
+* Exercise: Things that go beep
+* Project 3: Part 2
 
 ### After Class
+* Watch [Documenting your Work (video lecure)](https://vimeo.com/652739542)
+* Read The Hidden Life of an Amazon User (Haylee is our discussion leader) and write one discussion question/comment
+* Project 3: Part 2
 
 ---
 
 ## {{< dateFormat "2022-03-24" >}} Studio
 
 ### In Class
+* Hear from Haylee and discuss The Hidden Life of an Amazon User
 
 ### After Class
 

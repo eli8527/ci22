@@ -33,9 +33,10 @@ activeDate: "2022-03-20"
 ## {{< dateFormat "2022-03-24" >}} Studio
 
 ### In Class
-* Hear from Haylee and discuss The Hidden Life of an Amazon User
+* Cancelled
 
 ### After Class
+* Project 3: Part 3
 
 ---
 

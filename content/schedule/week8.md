@@ -43,5 +43,13 @@ activeDate: "2022-03-20"
 ## {{< dateFormat "2022-03-25" >}} Lab
 
 ### In Class
+Review Assignment
+JavaScript review for those who want to
+Working session
 
 ### After Class
+READ
+Moniker
+
+HW
+Continue Farewell, World

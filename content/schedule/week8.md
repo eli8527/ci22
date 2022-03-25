@@ -52,4 +52,5 @@ READ
 Moniker
 
 HW
+[Midterm survey](https://forms.gle/KaDqsqELvfEyezB69)
 Continue Farewell, World

@@ -44,7 +44,7 @@ activeDate: "2022-03-20"
 
 ### In Class
 Review Assignment
-JavaScript review for those who want to
+JavaScript review for those who want to, [DECK](https://docs.google.com/presentation/d/1zf50i_YJFIOj07jIMA35rsBkHJGvQoUw3-QZGq77Crk/edit?usp=sharing)
 Working session
 
 ### After Class

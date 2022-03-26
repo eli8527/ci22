@@ -1,0 +1,217 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta content="initial-scale=1,width=device-width,viewport-fit=cover" name=viewport><meta name=color-scheme content="dark light"><link href=/icons/favicon.png rel=icon sizes=all><title>JavaScript — Core Interaction Spring 2022</title><link href=/styles/main.e299dece38583af8aee5811046c683c885fd1d64fa4917af1bab3454c7d948935a791382245e3d3bf86ae32a08531b4e794ac1d8cc2306c89634a373564b35cc.css rel=stylesheet><script src=/scripts/main.b4112172f4263989f1596fb16208d7aed5fc3aede77a205edef9011ac6f4ce32c32372af5d313846a92a754cd77a1acf833c9e6bb792ec92a99004a8c9290ce4.js></script></head><body><nav><select class=ui name=nav onchange=updateNav(event)><option value=/>Home</option><option value=/syllabus/>Syllabus</option><option value=/schedule/>Schedule</option><option value=/projects/>Projects</option><option value=/readings/>Readings</option><option selected value=/resources/>Resources</option><option value=/people/>People</option></select>
+<script>updateNav=e=>{const t=e.target.value;window.location.href=t}</script></nav><main class=layout-wrapper><div class="content
+text"><p>Some tutorials on JavaScript:</p><ul><li><a href="https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1">W3 Schools</a></li><li>Async lectures from previous semesters: <a href=https://vimeo.com/513584741>1</a>, <a href=https://vimeo.com/519265257>2</a></li></ul><p>Some examples from class:</p><h2 id=hello-world>Hello, World</h2><pre tabindex=0><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;script&gt;
+      // We&#39;re calling a built in function called alert, 
+      // and passing in a string with &#34;Hello, World!&#34;
+      alert(&#39;Hello, World!&#39;);
+    &lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre><h2 id=call-and-response>Call and Response</h2><pre tabindex=0><code>// Declare a variable that will change called response
+// and set its value to an empty string (containing nothing)
+let response = &#39;&#39;;
+
+// Declare a variable called name (that is a constant 
+// and will not change). Set its value to the result of
+// calling a function prompt. We pass into prompt a parameter
+// containing a string asking for your name.
+const name = prompt(&#39;What is your name?&#39;);
+
+// Another prompt, but this time sets the string into a
+// constant variable called agePrompt first, and then calls
+// prompt with the variable.
+const agePrompt = &#39;What is your age&#39;;
+const age = prompt(agePrompt);
+
+// Declares ageNumber as the result of a built in function 
+// parseInt, which takes as parameter the age variable and
+// returns a number instead of a string
+const ageNumber = parseInt(age);
+// Sets ageFuture to the sum of ageNumber and 10.
+const ageFuture = ageNumber + 10;
+
+// Sets the value of response that we declared above
+// and builds a string using string concatenation.
+response = &#39;Hello &#39; + name + &#39;.\n&#39;;
+response = response + &#39;You are &#39; + ageNumber + &#39; today.\n&#39;;
+response = response + &#39;You will be &#39; + ageFuture + &#39; in 10 years.&#39;;
+
+// Calls the function alert and passes in as a
+// parameter, response
+alert(response);
+</code></pre><h2 id=calculator>Calculator</h2><pre tabindex=0><code>// We declare a function called ageCalculator.
+// It takes as input a parameter variable named age.
+// We then set variables based on this input parameter
+// and calculate the age in the future by 10 years.
+// The last line returns the final value to the piece
+// of code that called this function.
+const ageCalculator = (age) =&gt; {
+	const ageNumber = parseInt(age);
+	const ageFuture = ageNumber + 10;
+	return ageFuture;
+};
+
+let response = &#39;&#39;;
+
+const name = prompt(&#39;What is your name?&#39;);
+
+const agePrompt = &#39;What is your age&#39;;
+const ageValue = prompt(agePrompt);
+// This is where we call ageCalculator, a function
+// that we defined. Note that we are passing in
+// as a parameter, ageValue. This gets interpreted
+// by the function we are calling by getting the value of
+// ageValue and setting its parameter variable age to that value.
+// The return of that function is then set to ageFuture here
+// and we can use it in subsequent operations.
+const ageFuture = ageCalculator(ageValue);
+
+response = &#39;Hello &#39; + name + &#39;.\n&#39;;
+response = response + &#39;You are &#39; + ageNumber + &#39; today.\n&#39;;
+response = response + &#39;You will be &#39; + ageFuture + &#39; in 10 years.&#39;;
+
+alert(response);
+</code></pre><h2 id=color-on-click>Color on Click</h2><pre tabindex=0><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;style&gt;
+            .rect {
+                width: 100px;
+                height: 100px;
+                background-color: red;
+            }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;div class=&#34;rect&#34;&gt;&lt;/div&gt;
+        &lt;script&gt;
+            // Sets a constant variable r to the value of
+            // calling the function document.querySelector
+            // with the parameter being a CSS selector.
+            // This parameter is a string containing .rect.
+            // This function is part of the document JS
+            // object and will return the first element
+            // that matches this css selector.
+            const r = document.querySelector(&#39;.rect&#39;);
+
+            // r is now an HTML element with properties
+            // and functions you can access which are tied
+            // directly to that element. One such property
+            // is the style property. style contains all
+            // the inline css that is associated with
+            // that element. Itself has additional properties
+            // which are all the CSS properties, such as
+            // backgroundColor. Note that in CSS
+            // this would have read background-color. But
+            // JavaScript camelCases to backgroundColor.
+            //
+            // We set the value of backgroundColor to a string
+            // whose value is the color green.
+            r.style.backgroundColor = &#39;green&#39;;
+
+            // We can also call a function that is a
+            // property of r. addEventListener is a function
+            // which will execute whenever a certain event
+            // is performed by the user onto r. As a 
+            // reminder, r is the rect HTMl element.
+            // This function takes 2 parameters: the first is
+            // a string indicating the event type, in this case
+            // a click on the element. The second parameter
+            // is the function that gets called when the event
+            // occurs. This is an example a function which
+            // takes no parameters and has no name. It is called
+            // an anonymous function. 
+            r.addEventListener(&#39;click&#39;, () =&gt; {
+
+                // This function gets called when the element
+                // is clicked. This is a conditional (if/else)
+                // statement. When it runs, it checks if the
+                // value of the backgroundColor is green. 
+                // == is an equality check operator. Note 
+                // the two equals signs. If this evaluates to 
+                // true, then the first block of code, setting 
+                // the background color to blue is executed. 
+                // If this is NOT true, then the second block 
+                // is executed. One thing to note about 
+                // if/else statements is that only one block 
+                // will ever be executed at a time.
+                if (r.style.backgroundColor == &#39;green&#39;) {
+                    r.style.backgroundColor = &#39;blue&#39;;
+                } else {
+                    r.style.backgroundColor = green&#39;;
+                }
+            });
+        &lt;/script&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</code></pre><h2 id=random-color-on-click>Random Color on click</h2><pre tabindex=0><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;style&gt;
+            .text {
+                font-size: 100px;
+            }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;div class=&#34;text&#34;&gt;Hello&lt;/div&gt;
+        &lt;script&gt;
+            let textEl = document.querySelector(&#39;.text&#39;);
+            
+            // Here we declare a function called colorChange
+            // It does not take any input, but will modify
+            // an existing variable textEl and set its color
+            // randomly.
+            let colorChange = () =&gt; {
+                // We declare an array called colors, 
+                // with 4 strings. To access the first element 
+                // in the array, we would write colors[0]. To 
+                // access the second element, we  would write 
+                // colors[1] and so on.
+                let colors = [&#39;red&#39;, &#39;green&#39;, &#39;blue&#39;, &#39;purple&#39;];
+
+                // We call a built in Math function 
+                // called random(). random will generate a 
+                // number between 0 and 1. We then multiply 
+                // it by the valid indicies in the array 
+                // (between 0 and 3). To make it less brittle,
+                // we can also calculate this by getting the 
+                // length of the colors array and subtracting 1.
+                let random = Math.random() * (colors.length - 1);
+
+                // We now have a random number that will be 
+                // between 0 and 3, but it will contain 
+                // decimals.  In order to access the array 
+                // correctly, we have  to round this number.
+                let roundedRandom = Math.round(random);
+
+                // Once we have rounded the number, 
+                // we can set randomColor to the value
+                // of the array at index roundedRandom.
+                // roundedRandom will either be 0, 1, 2, or 3
+                // and will change each time colorChange
+                // is called.
+                let randomColor = colors[roundedRandom];
+
+                // Finally we set the color of textEl to 
+                // random color.
+                textEl.style.color = randomColor;
+            }
+
+            // We add an event listener to the textEl variable
+            // which will get called every time it is clicked.
+            // The second parameter is the function that gets
+            // called and instead of having an anonymous
+            // function like the example before, we actually
+            // provide a variable, which we declared previously
+            // as a function.
+            textEl.addEventListener(&#39;click&#39;, colorChange);
+        &lt;/script&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</code></pre></div></main></body></html>

@@ -53,4 +53,5 @@ Moniker
 
 HW
 [Midterm survey](https://forms.gle/KaDqsqELvfEyezB69)
+[W3 Schools Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
 Continue Farewell, World

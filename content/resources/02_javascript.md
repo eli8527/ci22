@@ -4,7 +4,7 @@ title: JavaScript
 
 Some tutorials on JavaScript:
 - [W3 Schools](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_variables1)
-- Async lectures from previous semesters: [1](https://vimeo.com/513584741), [2](https://vimeo.com/519265257)
+- Async lectures from previous semesters. Password is `interaction`: [1](https://vimeo.com/513584741), [2](https://vimeo.com/519265257)
 
 Some examples from class:
 

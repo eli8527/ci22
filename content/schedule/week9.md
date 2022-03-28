@@ -16,6 +16,9 @@ activeDate: "2022-03-27"
 ## {{< dateFormat "2022-03-29" >}} Studio
 
 ### In Class
+* Reading discussion, Haylee is our discussion leader
+* P3, Part 4
+* Small group project updates
 
 ### After Class
 

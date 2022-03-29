@@ -18,8 +18,7 @@ activeDate: "2022-03-27"
 ### In Class
 * Review collections
 * [Today's notes](https://docs.google.com/document/d/1DQ-yXUKIQAvROthnLSlYTbnCEHUzswGPwhH6QLvpTww/preview)
-* P3, Part 4
-* Small group project updates
+* P3, Part 4 + 5
 
 ### After Class
 * P3, Part 5

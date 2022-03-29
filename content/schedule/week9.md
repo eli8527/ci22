@@ -16,11 +16,12 @@ activeDate: "2022-03-27"
 ## {{< dateFormat "2022-03-29" >}} Studio
 
 ### In Class
-* P3, Part 4
 * [Today's notes](https://docs.google.com/document/d/1DQ-yXUKIQAvROthnLSlYTbnCEHUzswGPwhH6QLvpTww/preview)
+* P3, Part 4
 * Small group project updates
 
 ### After Class
+* P3, Part 5
 
 ---
 

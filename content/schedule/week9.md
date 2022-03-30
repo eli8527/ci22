@@ -18,6 +18,7 @@ activeDate: "2022-03-27"
 ### In Class
 * Review collections
 * [Today's notes](https://docs.google.com/document/d/1DQ-yXUKIQAvROthnLSlYTbnCEHUzswGPwhH6QLvpTww/preview)
+* Exercise: Filter
 * P3, Part 4 + 5
 
 ### After Class

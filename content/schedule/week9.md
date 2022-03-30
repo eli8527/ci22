@@ -28,13 +28,12 @@ activeDate: "2022-03-27"
 ## {{< dateFormat "2022-03-31" >}} Studio
 
 ### In Class
-* Today's notes
 * Review P3, Part 5
-* Discuss wireframes and site architecture, design concepts
-* Small group meetings
+* Today's notes
+* Small group meetings + work time
 
 ### After Class
-
+* P3, Part 6
 ---
 
 ## {{< dateFormat "2022-04-01" >}} Lab

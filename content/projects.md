@@ -22,7 +22,7 @@ All work is expected to be hosted on Github Pages. You are expected to create an
 * [Flexbox](https://docs.google.com/document/d/1mj8aeijpgBo__wyV3sVBlaD5a8BHwNVlrfFJZW970Uw/preview?usp=sharing)
 * [Things that go beep](https://docs.google.com/document/d/1eAQx72Hk7VkALL5R8CRetT1opeh8M1IMAM5zNcWXP6Y/edit)
 * [Favicon](https://docs.google.com/document/d/1FTRn_yaGa2XnoD6VzaAr43o5bVe2yZf_Q5vpOGMZ4_w/edit?usp=sharing)
-* [Filter](https://docs.google.com/document/d/1oDEZw7fuZr7XUgPSTTeJABUJXzxMzUcHgbMRutXlTGY/edit)
+* [Filter](https://docs.google.com/document/d/1Yl8MYNQOl_Fk49eB1XHPQNiKss6z1xcK62aq6zllx5M/edit?usp=sharing)
 
 ## Lab Assignments
 A1: Semantics are everything

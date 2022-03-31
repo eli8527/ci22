@@ -29,6 +29,8 @@ activeDate: "2022-03-27"
 ## {{< dateFormat "2022-03-31" >}} Studio
 
 ### In Class
+* Reading Discussion (Haylee is our discussion leader)
+* Review Exercise: Things That Go Beep
 * Review P3, Part 5
 * [Today's notes](https://docs.google.com/document/d/1ZrctmQ-wOsZOUbkoDAnBuQgvecCC6AkF6OKPZg45t6s/preview)
 * Exercise: Filter

@@ -38,6 +38,7 @@ activeDate: "2022-03-27"
 
 ### After Class
 * P3, Part 6
+* Finish Exercise: Filter
 ---
 
 ## {{< dateFormat "2022-04-01" >}} Lab

@@ -34,7 +34,6 @@ activeDate: "2022-03-27"
 * Review P3, Part 5
 * [Today's notes](https://docs.google.com/document/d/1ZrctmQ-wOsZOUbkoDAnBuQgvecCC6AkF6OKPZg45t6s/preview)
 * Exercise: Filter
-* Small group meetings
 
 ### After Class
 * P3, Part 6

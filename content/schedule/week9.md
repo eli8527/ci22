@@ -43,5 +43,11 @@ activeDate: "2022-03-27"
 ## {{< dateFormat "2022-04-01" >}} Lab
 
 ### In Class
+Working session
 
 ### After Class
+READ
+Seth Price
+
+HW
+Finish Farewell, World.

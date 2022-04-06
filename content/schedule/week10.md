@@ -23,7 +23,6 @@ activeDate: "2022-04-03"
 
 ### After Class
 * Project 3, Part 7
-* Complete the in class activity: Documenting Your Partners Work, for Tuesday (1 week from now)
 * Reminder: CD Lecture Responses
 
 ---
@@ -31,13 +30,12 @@ activeDate: "2022-04-03"
 ## {{< dateFormat "2022-04-07" >}} Studio
 
 ### In Class
-* Small group reviews (Part 8)
-* 1:1s and ambient work time (P3, Part 9)
+* Small group reviews (Part 7)
+* 1:1s and ambient work time (P3, Part 8)
 
 ### After Class
 * Project 3, Part 8
-* Complete the in class activity: Documenting Your Partners Work, for Tuesday (next class)
-* Reminder: CD Lecture Responses
+* Complete the in class activity: Documenting Your Partners Work, for Tuesday (1 week from now)
 
 ---
 

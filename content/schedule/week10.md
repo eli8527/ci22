@@ -48,6 +48,7 @@ TECHNICAL
 * JS fetch, promises, etc
 * Generating DOM based off data
 
+[SLIDES](https://docs.google.com/presentation/d/1K9oqZQZHmTv8q4A9OtiA6tk0GIZfrT1026uZchu4GrM/edit?usp=sharing), [VIDEO](https://NewSchool.zoom.us/rec/share/KEYxO8BY3CqAxh-x2bLr4bNgmgCOP5AuAEeABryIfhj8AoimQj454Vs60x_l2soF.gx7J4Qj3ceojsQzM?startTime=1649428247000) (Passcode: Jr0=+PRH)
 ### After Class
 LISTEN
 Brian Eno

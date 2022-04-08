@@ -44,8 +44,5 @@ Revisiting your garden from A2, change it up, spruce it up, etc. by introducing 
 A5: Farewell, World
 Create the last page of the internet. Using Javascript interactions, the page should dynamically unfold and tell the story, rise, fall, and collapse of the internet. This can be done visually, textually, or conceptually. It should be able to communicate some story to whoever may see it. Due 4/8.
 
----
-The assignments below are subject to adjustment.
-
 A6: Ambient
-Create an ambient website. It should be able to communicate something about itself when viewed at any given moment in time. It should make use of data provided by a CMS and incorporate everything you’ve learned so far about web programming.
+Create an ambient website. It should be able to communicate something about itself when viewed at any given moment in time. It should make use of a data feed and incorporate everything you’ve learned so far about web programming. Due 5/13.

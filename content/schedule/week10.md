@@ -41,5 +41,16 @@ activeDate: "2022-04-03"
 ## {{< dateFormat "2022-04-08" >}} Lab
 
 ### In Class
+Crit for Farewell, World
+
+TECHNICAL
+* Are.na as a CMS
+* JS fetch, promises, etc
+* Generating DOM based off data
 
 ### After Class
+LISTEN
+Brian Eno
+
+HW
+Begin Ambient (Due 5/13)

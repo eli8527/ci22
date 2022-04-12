@@ -31,6 +31,7 @@ activeDate: "2022-04-10"
 
 ### In Class
 * Today’s Notes
+* Review Exercise: Filters (from a few weeks ago)
 * Review Stories as Networks partner documentation activity
 * Project check in + Ambient work time (Part 10)
 

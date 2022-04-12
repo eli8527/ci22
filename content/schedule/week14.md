@@ -14,7 +14,7 @@ activeDate: "2022-05-01"
 
 ---
 
-## {{< dateFormat "2022-05-03" >}} Studio
+## {{< dateFormat "2022-05-03" >}} Studio *REMOTE*
 
 ### In Class
 
@@ -22,7 +22,7 @@ activeDate: "2022-05-01"
 
 ---
 
-## {{< dateFormat "2022-05-05" >}} Studio
+## {{< dateFormat "2022-05-05" >}} Studio *REMOTE*
 
 ### In Class
 

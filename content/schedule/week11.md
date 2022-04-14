@@ -30,10 +30,9 @@ activeDate: "2022-04-10"
 ## {{< dateFormat "2022-04-14" >}} Studio
 
 ### In Class
-* Today’s Notes
 * Review Exercise: Filters (from a few weeks ago)
 * Review Stories as Networks partner documentation activity
-* Project check in + Ambient work time (Part 10)
+* Optional 1:1s (Part 10)
 
 ### After Class
 * Project 3, Part 10

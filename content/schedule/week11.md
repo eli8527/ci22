@@ -42,5 +42,10 @@ activeDate: "2022-04-10"
 ## {{< dateFormat "2022-04-15" >}} Lab
 
 ### In Class
+Ambient Software
+
+TECHNICAL
+Continue Are.na as a CMS
 
 ### After Class
+3 Drafts of ambient

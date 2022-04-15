@@ -42,10 +42,10 @@ activeDate: "2022-04-10"
 ## {{< dateFormat "2022-04-15" >}} Lab
 
 ### In Class
-Ambient Software
+Ambient Software, [SLIDES](https://docs.google.com/presentation/d/1tZAAJntnFVoab5PMSgUc1OwiD_rvnQsyr8f8o4EobVI/edit?usp=sharing), [RECORDING](https://NewSchool.zoom.us/rec/share/NzAkP6L_Yh9Ztee1eZYWKUWRZTj6pO_93iYQmg2FmdbvcPVdFsQBzlfrweF2vaLe.mvziuIPAB4HmkCBW?startTime=1650027924000)
 
 TECHNICAL
-Continue Are.na as a CMS
+Continue Are.na as a CMS, [RECORDING](https://NewSchool.zoom.us/rec/share/NzAkP6L_Yh9Ztee1eZYWKUWRZTj6pO_93iYQmg2FmdbvcPVdFsQBzlfrweF2vaLe.mvziuIPAB4HmkCBW?startTime=1650031259000)
 
 ### After Class
 3 Drafts of ambient

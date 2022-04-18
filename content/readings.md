@@ -8,7 +8,7 @@ Thoughts and responses relating to studio readings are expected be collected her
 * Unit 1 [discussion questions / comments](https://docs.google.com/document/d/13pECGtMq4FyJFZKJK18K2bVGKaFmwI8L7armvic5zjY/edit)
 * Unit 2 [discussion questions / comments](https://docs.google.com/document/d/1iaMH5_ZYew54fBA8P0vLuBUZYWLafQen8HoIM0A1VuY/edit)
 * Unit 3 [discussion questions / comments](https://docs.google.com/document/d/1MbagYbj95h-gXEFXO7WvLw0KlJpw7-qI-DmJ5fUUuY0/edit)
-* Unit 4
+* Unit 4 [discussion questions / comments](https://docs.google.com/document/d/1dkzXP61Ij64a9Ug4ibjNsVZoS7DhYg-6_7ZaBqTquYY/edit)
 <br/>
 
 - [Reading leaders signup sheet](https://docs.google.com/document/d/1rixPKi2pmKr-eSfHzbp6NFr8zVOIDYezl-GbPGsvyNk/edit)

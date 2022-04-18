@@ -19,17 +19,26 @@ activeDate: "2022-04-17"
 ## {{< dateFormat "2022-04-19" >}} Studio
 
 ### In Class
+* Unit 4: Interaction with People Begins
+* Project 4: Input/Output introduction
+* [Today's notes](https://docs.google.com/document/d/1YsLQCqZNdO9exAEdYRRoIim6ij-1G0dekkfYJbq2vlQ/preview)
 
 ### After Class
-
+* Complete your Elastic Collections project for Thursday. It should be online at the start of class. Please be on time!
+* Project 4, Part 1.
+* READ Darius Kazemi's *Run Your Own Social* and add a [discussion comment/question here](https://docs.google.com/document/d/1dkzXP61Ij64a9Ug4ibjNsVZoS7DhYg-6_7ZaBqTquYY/edit). Shiyao and Gayoung will be our discussion leaders.
 ---
 
 ## {{< dateFormat "2022-04-21" >}} Studio
 
 ### In Class
+* [Project 4 Critique](https://docs.google.com/document/d/1cpIgjdB6kmXugJFBmgnkz6ldtJT1oCkEmUh0J16nV4k/edit?usp=sharing)
+* Reading discussion: Shiyao and Gayoung are our discussion leaders.
 
 ### After Class
-
+* Project 4, Part 1.
+* READ *Glitching the Master’s House* and add a [discussion comment/question here](https://docs.google.com/document/d/1dkzXP61Ij64a9Ug4ibjNsVZoS7DhYg-6_7ZaBqTquYY/edit). Hugo and Hallie will be our discussion leaders.
+* WATCH [Accessibility Lecture](https://vimeo.com/showcase/8025633/video/533670290)
 ---
 
 ## {{< dateFormat "2022-04-22" >}} Lab

@@ -11,7 +11,7 @@ All work is expected to be hosted on Github Pages. You are expected to create an
 * P1: [Cross-Platform Storytelling ](https://docs.google.com/document/d/1a-WplpmLyByJrNWhDEQRrCwUGYQAd-pvgrVSm-FkTKM/edit?usp=sharing)
 * P2: [Stories as Networks](https://docs.google.com/document/d/14X4xLXwyJlXFSaHCkOabOrcNO-H8mM-qkRk9XgbyQqg/preview)
 * P3: [Elastic Collections](https://docs.google.com/document/d/1_mBuZDTiSwjn0FuBiRlcQwg8GLgbb2xbZppqfKZq5fo/preview)
-* P4: [Input/Output](https://docs.google.com/document/d/12zVruktlY07dL200_0jR0yfXe6HJnWS9YdrSTHpXC8g/edit)
+* P4: [Input/Output](https://docs.google.com/document/d/1Hfe8o-BKCEH2NyPq8i-Zw5yU00uXUXZ565d19Uin9VI/edit)
 
 ## Studio Exercises
 * [Slack Avatar](https://docs.google.com/document/d/1J1SP_pRU17cEQI60vDPMoGeL4UbwelnhjSXvaK6A6ak/preview)

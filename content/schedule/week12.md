@@ -22,6 +22,7 @@ activeDate: "2022-04-17"
 * Unit 4: Interaction with People Begins
 * Project 4: Input/Output introduction
 * [Today's notes](https://docs.google.com/document/d/1YsLQCqZNdO9exAEdYRRoIim6ij-1G0dekkfYJbq2vlQ/preview)
+* Exercise: Favicon
 
 ### After Class
 * Complete your Elastic Collections project for Thursday. It should be online at the start of class. Please be on time!

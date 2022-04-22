@@ -43,7 +43,7 @@ activeDate: "2022-04-17"
 ## {{< dateFormat "2022-04-22" >}} Lab
 
 ### In Class
-* Review for skills test
+* Review for skills test, [SLIDES](https://docs.google.com/presentation/d/1tuOuYyJEo_mmk2a3zfBEcoSbjg5Wq_lre4pr-6xI518/edit?usp=sharing), [RECORDING](https://newschool.zoom.us/rec/share/HWXWap1dwE2uB_JHbhRjxFXTCjo2VC2Njcxj_RJLnzfKqpsiGyPdr87Cl3HSvDll.foXqTlBwyZBQJcTM), password: d^&66=IT
 * HTML Forms
 
 ### After Class

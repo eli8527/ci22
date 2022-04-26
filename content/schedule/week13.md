@@ -34,7 +34,7 @@ activeDate: "2022-04-24"
 ### In Class
 
 ### After Class
-* Read Exclusive Design and write one discussion question/comment [here].(https://docs.google.com/document/d/1dkzXP61Ij64a9Ug4ibjNsVZoS7DhYg-6_7ZaBqTquYY/edit). Jiyeong and Anna will lead the discussion next class.
+* Read Exclusive Design and write one discussion question/comment [here](https://docs.google.com/document/d/1dkzXP61Ij64a9Ug4ibjNsVZoS7DhYg-6_7ZaBqTquYY/edit). Jiyeong and Anna will lead the discussion next class.
 
 ---
 

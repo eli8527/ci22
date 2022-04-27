@@ -32,9 +32,14 @@ activeDate: "2022-04-24"
 ## {{< dateFormat "2022-04-28" >}} Studio
 
 ### In Class
+* Discuss Human Centered Design and Accessibility Lectures
+* Small group reviews
+* 1:1s
 
 ### After Class
+* Project 4, Part 3
 * Read Exclusive Design and write one discussion question/comment [here](https://docs.google.com/document/d/1dkzXP61Ij64a9Ug4ibjNsVZoS7DhYg-6_7ZaBqTquYY/edit). Jiyeong and Anna will lead the discussion next class.
+* Next STUDIO classes are remote. LAB is in person !
 
 ---
 

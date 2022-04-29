@@ -48,6 +48,8 @@ activeDate: "2022-04-24"
 ### In Class
 * Skills Test
 * More Input Forms
+  * [Range and Select](https://NewSchool.zoom.us/rec/share/ZMXUMqjnkNZpRpJDwGmS2KElc9Navxtq_73DfMu-yQF0RPujSa6RqJgMjlO3lCv_.07n2sM0eMKN84qmz)
+  * [Keydown](https://NewSchool.zoom.us/rec/share/17YPGhOgWDhDdv0vCYFuimteU1HY6cwIkuXJVA8WvgAy_31y4Ak5-BZbZcXNNl_Q.8ULpKjVM_Zgmn5MM)
 * Working
 
 ### After Class

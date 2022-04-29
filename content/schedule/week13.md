@@ -2,7 +2,7 @@
 week: 13
 title: Week 13
 overview: |
-  Input/Output, Ambient, "Field trip"
+  Input/Output, Ambient, Skills Test
 days:
   - "2022-04-26"
   - "2022-04-28"

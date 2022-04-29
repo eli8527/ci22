@@ -2,7 +2,7 @@
 week: 15
 title: Week 15
 overview: |
-  Input/Output, Ambient, Skills test
+  Input/Output, Ambient Reviews
 days:
   - "2022-05-10"
   - "2022-05-12"

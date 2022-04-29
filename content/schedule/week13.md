@@ -46,5 +46,9 @@ activeDate: "2022-04-24"
 ## {{< dateFormat "2022-04-29" >}} Lab
 
 ### In Class
+* Skills Test
+* More Input Forms
+* Working
 
 ### After Class
+* Continue Ambient

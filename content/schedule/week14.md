@@ -17,8 +17,13 @@ activeDate: "2022-05-01"
 ## {{< dateFormat "2022-05-03" >}} Studio (REMOTE)
 
 ### In Class
+* Hear from Anna and Jiyeong on the reading.
+* Discuss Human Centered Design and Accessibility Lectures
+* [Today's notes](https://docs.google.com/document/d/1BeSdbHtV7QWJ_LYfFvYW_OYZZNC06Iq5NwTyEDQM_VE/edit?usp=sharing)
+* Small group reviews
 
 ### After Class
+* Project 4, Part 3
 
 ---
 

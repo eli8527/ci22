@@ -30,8 +30,13 @@ activeDate: "2022-05-01"
 ## {{< dateFormat "2022-05-05" >}} Studio (REMOTE)
 
 ### In Class
+* [Review this (another one!) inclusive design checklist](https://github.com/Heydon/inclusive-design-checklist)
+* [Today's Notes](https://docs.google.com/document/d/1FCo1WrXbAo4rNYRSEyvxXpqx4oEtOh-qY8h4zqG7eL0/edit?usp=sharing)
+* Exercise: Understanding personas
+* Optional 1:1s
 
 ### After Class
+* Project 4, Part 4 (continue working on your project + integrate media queries! it is due one week from today.)
 
 ---
 

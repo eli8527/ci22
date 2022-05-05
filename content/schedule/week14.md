@@ -37,6 +37,7 @@ activeDate: "2022-05-01"
 
 ### After Class
 * Project 4, Part 4 (continue working on your project + integrate media queries! it is due one week from today.)
+* Please link Part 1, 2 and 3 of Project: Input/Output to your Github if you haven't already
 
 ---
 

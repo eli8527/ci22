@@ -17,8 +17,11 @@ activeDate: "2022-05-08"
 ## {{< dateFormat "2022-05-10" >}} Studio (REMOTE)
 
 ### In Class
+* Work time + office hours
+* [Today's notes](https://docs.google.com/document/d/1Ah-NArSrq-f3XjMjmlfv0CkFSiEsheM0lUOt1l5mvFQ/edit?usp=sharing)
 
 ### After Class
+* Complete Project ! Read through project requirements. Make sure you have media queries to accomodate at least 2 screen sizes.
 
 ---
 

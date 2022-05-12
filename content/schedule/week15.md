@@ -28,8 +28,10 @@ activeDate: "2022-05-08"
 ## {{< dateFormat "2022-05-12" >}} Studio (REMOTE)
 
 ### In Class
+* [Today's notes](https://docs.google.com/document/d/1TYZx_9C_ZGU-j2uo-mKfUz2g_IYVrWBIKSl5IJydqlo/edit?usp=sharing)
 
 ### After Class
+* Have a great summer !
 
 ---
 
